@@ -1,0 +1,108 @@
+##*The Crowd Supply Guide:* Fulfillment & Logistics
+--------------------
+
+
+*Go make a great product. Leave the packing peanuts to us.*
+
+
+{shippingship}
+
+Once your campaign has met its funding goal and your product has been made, you will need to deal with the logistics of delivering it to backers. This can be one of the more challenging parts of a crowdfunding campaign - especially if your customers are all over the world.
+
+Fortunately, Crowd Supply has extensive experience in shipping logistics. Whether you're shipping locally or internationally, we're here to help. Our comprehensive fulfillment services will help you deliver your product on time and on budget.
+
+Crowd Supply will:
+
+* Take backer's orders including specifics such as quantity, size, and color
+* Collect and verify backers' shipping addresses
+* Break down manufacturer's bulk packaging
+* Inventory and store your products in a secure warehouse
+* Provide packing materials, box, tape, and address label 
+* Carefully and attractively package your product (well-prepared packages make a great first impression)
+* Ship via USPS or via UPS at a discounted, negotiated rate
+* Secure shipping insurance for the goods (all international orders and US orders over $100)
+* Provide you with shipping information, including tracking and other info
+* Send a shipping confirmation/tracking info email to your backers when their order ships
+* Accept and process returns if needed
+
+If you are not using Crowd Supply for order fulfillment, you MUST do each of these things yourself. Note that, unlike other crowdfunding platforms, Crowd Supply collects all shipping information up front. This reduces delays and miscommunication from post-campaign surveys to collect shipping info.
+
+###International Shipping
+
+Ship to international destinations by specifying a flat international shipping surcharge for the product. This surcharge is paid by the backer and will be added to any order shipped outside the United States.
+
+###Fulfillment Fees
+
+These are the fees that you'll pay to Crowd Supply for fulfilling orders on your behalf. This is how they break down:
+
+*Freight* is the cost paid to the carrier (usually either UPS or USPS) for transporting and delivering the package. This cost is passed directly to you without markup. For example, in the case of shipping via UPS, you will benefit from the volume discount rate Crowd Supply has negotiated with UPS. In the case of USPS, the exact cost of postage is passed on to you. Freight costs may also include a charge for insurance, depending on the value of the goods being shipped. 
+
+Because domestic (US) shipping is not charged to backers, make sure you account for freight costs when you calculate your pledge levels and pricing. If you provide us with the weight and dimensions of your product, we can estimate your shipping costs.
+
+*Packaging and handling* is a fee that covers boxes, packing materials, tape, address labels, storage space, and manual labor Crowd Supply provides in preparing your products to ship. Our standard rate is **$2.75** per package shipped, but this fee is assessed on a case-by-case basis before shipping begins. The fee is intended to reflect the actual cost incurred to ship your package.
+
+*International handling* is an additional **$1** fee added to each package shipped to an address outside the US. This fee covers the additional costs of dealing with customs paperwork and policies, validating non-US addresses, and additional customer service that international orders entail. So, each package Crowd Supply ships internationally will cost you a total of $3.75.
+
+## Order Policies
+
+To learn more about order policies for things like returns, refunds, etc., visit the [Order Policies & Procedures page](/guide/policies-and-procedures)
+
+##The Fine Print
+
+* [Shipping policy represented to customers placing an order on Crowd Supply](https://www.crowdsupply.com/shipping).
+* [Crowd Supply Warehouse and Fulfillment Services Agreement](/fulfillment-agreement).
+* The legal [Terms of Use](https://www.crowdsupply.com/terms-of-use) backers and creators agree to by using Crowd Supply.
+
+----------------------------------------------
+
+Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we can help.
+
+----------------------------------------------
+
+### The Crowd Supply Guide: Table of Contents
+
+#### For Everyone
+
+* [Proclamation of User Rights](/about#user-rights)
+
+#### For Backers
+
+* [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [How are Backers Protected?](/guide/backer-protection)
+
+#### For Creators
+
+**Intro & Overview**
+
+* [Quick Start](/guide/quick-start)
+* [Campaign Content Checklist](/guide/campaign-checklist)
+
+**Before Your Campaign Starts**
+
+* [Basic Campaign Page Content](/guide/campaign-content-basics)
+* [Define Your Community, Write Your User](/guide/on-campaign-text)
+* [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
+* [Set Funding Goals](/guide/funding-goals)
+* [Marketing and PR](/guide/marketing-and-pr)
+* [Campaign Photography: Creating Stills and Videos](/guide/project-video)
+* [Working with Manufacturers](/guide/working-with-manufacturers)
+* [Writing Style Guide](/guide/writing-style-guide)
+
+**During Your Campaign**
+
+* [Communicate With Your Backers](/guide/backer-communications)
+* [Engage Social Media](/guide/social-media-intro)
+* [Order Policies & Procedures](/guide/policies-and-procedures)
+
+**After Your Campaign Concludes**
+
+* [Your Campaign Has Ended, Now What?](/guide/when-your-campaign-ends)
+* Fulfillment & Logistics
+* [How Are Funds Received?](/guide/how-are-funds-received)
+* [When are Funds Received?](/guide/when-are-funds-received)
+
+----------------------------------------------
+
+Please send us your feedback on this Guide: [guide-feedback@crowdsupply.com](mailto:guide-feedback@crowdsupply.com).
+
+----------------------------------------------

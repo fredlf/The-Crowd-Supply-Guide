@@ -1,0 +1,91 @@
+{blog-freeway-1}
+
+##*The Crowd Supply Guide:* How to Get Traffic to your Campaign
+------------------
+
+Possibly the most frequently asked question we get at Crowd Supply is “How do you get traffic to my campaign.” Generally speaking, this is usually the questioners’ polite way of asking, “you’re not big and famous like Kickstarter, how will people see my campaign?” 
+
+This question is based on a mistaken assumption. Contrary to popular belief, there is not a crowd of people out there in the world just waiting to hear about your awesome idea and give you money. This is true regardless of which platform or website you use, be it Crowd Supply, Kickstarter, Indiegogo, or anyone else. A well recognized URL is not sufficient, nor even necessary, to build support for a campaign.
+
+In our experience, a lot of creators are a bit naive about this point. For example, some creators assume that because Kickstarter is the most well known platform, their product will be more likely to succeed there. The reality is quite the contrary, as [the data show](https://www.kickstarter.com/help/stats). Only 36% of all Kickstarter campaigns across all categories are successful. When you look at categories comparable to Crowd Supply’s (technology, design, food, fashion & crafts) the average success rate is only 20.5%. On the other hand, with a success rate of over 58%, comparable campaigns on Crowd Supply are nearly 3X more likely to reach their goal, and they raise twice as much on average. 
+
+Why? While it’s true that we see less campaign volume overall than Kickstarter, we begin by vetting projects for quality and the team’s ability to execute. Then we work closely with creators to ensure they’re prepared to activate their supporters. In short, it takes a lot more work to generate a crowd than simply adding your project to a website with a big brand name in the URL. The crowd has to be found, courted, and carefully nurtured.
+
+From our experience, there are basically three sources for your project’s crowdfunders:
+
+1. *Your friends, family, and acquaintances.* Prepare an email list of contacts in your personal network. This includes friends and family, coworkers or colleagues that you know personally, people you’ve met at networking events, or anyone who would be supportive and interested in your endeavor. Think of people with whom you have a personal relationship, people who would be happy to hear about your idea and support you. 
+
+     Engage this community early on. It’s never too soon to share your plans and product idea, ask for feedback, and enlist their support. Some of these contacts may turn into your greatest evangelists and allies, and will likely know and share the project with other potential supporters. You can start by emailing them the occasional update and asking for their support. Once your campaign has gone live, email them again with a personal update and encourage them to share your live campaign with their own networks. 
+
+     Keep in mind that while your close friends and family love you and believe in you, unless you were born a Rockefeller, they probably won’t account for much revenue. Still, don’t underestimate their importance. They can be your best boosters, singing your praises to their own social networks and amplifying your message. 
+
+2. *Community.* Communities might include some of those in your personal network above, but generally, communities consist of strangers with shared interests, professional motivations, common activities, or a set of values. But what all communities have in common is a keen BS detector and a tight, fast grid of communication. 
+
+     That means if your project resonates with a community member, the rest of the community will hear about it in short order. For that reason, communities are really the bread and butter of a crowdfunding campaign. But they’re also a double-edged sword. If your project is seen unfavorably, or if it seems like you’re pandering to, or taking advantage of the community, it will just as quickly react by exiling you. 
+
+     In order to successfully capture the crowd represented by the community, you and your project need to be a legitimate member of that community. You need to give back and contribute to the community. Be active, participatory, and present wherever the community gathers, online or in reality. If you establish yourself as an ally and active member to their community, you can then share and ask for support for your own project. 
+
+     So where do you find these communities? They might be local meetup groups (like our local Hardware Massive group in Portland), an active community on Slack or IRC, [LinkedIn Groups](https://www.linkedin.com/groups/6684819/profile), a Subreddit (be especially mindful of your [reddiquette](https://www.reddit.com/wiki/reddiquette)!), forums like [xilinx’s](https://forums.xilinx.com/) or [DIYaudio](http://www.diyaudio.com/index.php) that are pertinent to your product and end user, or even maker spaces like [Hackster.io](https://www.hackster.io/), [Hackaday](https://hackaday.io/), and [Instructables](http://www.instructables.com/). 
+
+     To help you get started finding your community, we've created a [Community Directory](/community-directory). [Drop us a line](mailto:guide-feedback@crowdsupply.com) if you know of a community we should add.
+
+3. *Mass market exposure.* There are two ways to get exposure on the mass market: luck and spending buckets of money on a sophisticated PR campaign. If your strategy is counting on luck, we recommend you buy a lottery ticket. It’s easier and the odds are better. If you’re running a PR and social media campaign, then you need to be confident that the potential payoff justifies the expense and the time required to take this piece on yourself. 
+
+     PR and digital marketing takes a lot of time and effort. Even working with an agency, you’ll need to provide collateral and content. However, no matter how much you spend and how much time you put in, to succeed you’ll need to have an amazing story behind your project, a story people can’t help but share whether or not they become backers. Do your research and build a targeted list of blogs and publications that cover similar products to yours. Let them know about your campaign and paint a brief but compelling story of why it matters. Ask them if they’ be interested in covering it. If they don’t respond or express interest, then move along. If you’re hoping for broad media exposure, however, enlist help. This part is probably one of the most difficult for most creators to tackle and execute effectively. Want to learn more about marketing and PR for your product campaign? Visit this [Creator Guide article on marketing](https://www.crowdsupply.com/guide/marketing-and-pr). 
+
+     Social media takes a different strategy but can be an equally effective driver of interest and traffic to your campaign. If PR isn’t your bag, social media might be a better place to you to focus your efforts. Share updates, images, videos (even gifs) with your followers. Engage in conversations on social media as you would with other communities above. The goal of social media is to not only engage your followers with the intent of converting them, but to get them excited enough about your project to reshare it with their own social networks, as well. Virality, FTW! For more info, visit this [Creator Guide article on social media](https://www.crowdsupply.com/guide/social-media-intro).
+
+
+----------------------------------------------
+
+Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we can help.
+
+----------------------------------------------
+
+### The Crowd Supply Guide: Table of Contents
+
+#### For Everyone
+
+* [Proclamation of User Rights](/about#user-rights)
+
+#### For Backers
+
+* [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [How are Backers Protected?](/guide/backer-protection)
+
+#### For Creators
+
+**Intro & Overview**
+
+* [Quick Start](/guide/quick-start)
+* [Campaign Content Checklist](/guide/campaign-checklist)
+
+**Before Your Campaign Starts**
+
+* [Basic Campaign Page Content](/guide/campaign-content-basics)
+* [Define Your Community, Write Your User](/guide/on-campaign-text)
+* How to Get Traffic to Your Campaign
+* [Set Funding Goals](/guide/funding-goals)
+* [Marketing and PR](/guide/marketing-and-pr)
+* [Campaign Photography: Creating Stills and Videos](/guide/project-video)
+* [Working with Manufacturers](/guide/working-with-manufacturers)
+* [Writing Style Guide](/guide/writing-style-guide)
+
+**During Your Campaign**
+
+* [Communicate With Your Backers](/guide/backer-communications)
+* [Engage Social Media](/guide/social-media-intro)
+* [Order Policies & Procedures](/guide/policies-and-procedures)
+
+**After Your Campaign Concludes**
+
+* [Your Campaign Has Ended, Now What?](/guide/when-your-campaign-ends)
+* [Fulfillment & Logistics](/guide/fulfillment-and-logistics)
+* [How Are Funds Received?](/guide/how-are-funds-received)
+* [When are Funds Received?](/guide/when-are-funds-received)
+
+----------------------------------------------
+
+Please send us your feedback on this Guide: [guide-feedback@crowdsupply.com](mailto:guide-feedback@crowdsupply.com).
+
+----------------------------------------------

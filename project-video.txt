@@ -1,0 +1,130 @@
+##*The Crowd Supply Guide:* Campaign Photography: Creating Stills and Videos
+---------------------
+
+You'll need to provide high quality stills and videos to show off your project and demonstrate it in action. This section will help you create correct, high quality visual assets.
+
+## Video 
+
+### Outline
+
+First, you'll need to have a clear idea of the story you will be telling to pitch and describe your project. This will be the core of your video's content. Refer back to the work you did [defining your users and use cases](/guide/on-campaign-text). Next, you'll want to create a script and storyboard so you can plan out your shot list. You should send these to Crowd Supply for feedback before you start shooting. Here’s a simple, well-tested outline for a crowdfunding campaign video:
+
+1. Start with a purely visual shot(s) to capture viewers’ attention. About ten seconds. For example, a montage of people suffering from a problem your product solves or perhaps a montage of your product doing awesome things.
+1. Beauty shot of your product and text/voiceover so that by the end of the shot, people know exactly what you are going to talk about and they want to know more. About ten seconds.
+1. Detail 1: explain one feature in detail (e.g., waterproof). About 15 seconds.
+1. Detail 2: explain another feature in detail (e.g., handcrafted by biodynamic elves). About 15 seconds.
+1. Detail 3: explain another feature in detail (e.g., defies gravity). About 15 seconds.
+1. Detail 4: explain another feature in detail (e.g., glows in the dark). About 15 seconds.
+1. Explain who you are, how far along the project is, and how much work you’ve put into it up until now. About 15 seconds.
+1. Make it clear that you need the viewers’ help, both in pledging to the project and in spreading the word. End with a clear call to action. About 15 seconds.
+
+That all adds up to a minute and a half. Your first cut of the video will probably be at least twice that long. Your job is to ruthlessly cut out any excess until all that is left is a finely honed machine that tells your story as efficiently as possible. Generally, this video needs to be under two minutes and ideally is close to 90 seconds. If you have a longer story to tell, or a particularly complex product you can always add more video content to the main body of your project page.
+
+Try to avoid the "talking head" intro to your video. Don't start with you. Start with the product as the hero, or introduce the problem that your product solves. You only have a few seconds to grab the viewer's attention, so be appealing and succinct.
+
+*Tip: Wait a day or two after filming to do your editing. It will be easier for you to see what can be cut.*
+
+Finally, note how late in the video the part about introducing yourself comes. The single most common mistake in crowdfunding videos is putting the personal introduction first. In almost all cases, this is a mistake and a distraction from what you’re actually trying to get across. Think of it this way: the people who don’t yet know you won’t have any reason to want to know you until you tell them about your idea while the people who already know you don’t need to be introduced again.
+
+### Technical & Other Requirements
+
+Your campaign video should satisfy these requirements:
+
+- Shoot in a 16:9 aspect ratio.
+- Shoot at least 720p, 1080p is preferred, and 4K is welcome. Minimum acceptable resolution is 1280 x 720.
+- Show the product as early as possible, preferably in the first four seconds.
+- Keep the video as short as possible, preferably less than two and a half minutes. If you wish to include more content, you can add additional videos to the campaign body.
+- We use Vimeo for video handling, so make sure to use a file format they can accept.
+- You can share your video via Vimeo, YouTube, Google Drive or any other file transfer or hosting service we can access. If you upload your video with privacy settings, make sure you provide us with the password.
+
+### Filming tips and methods
+
+Take a little time to learn the basics of composition and lighting. A quick web search will yield a wealth of useful information.
+
+* If you're using a phone, hold it horizontally, not vertically.
+* Use a tripod or camera mount. You'll get far more professional-looking results, and editing will be much easier.
+* If possible, use off-camera lights. You can put together a home-grown lighting kit for under a $100 USD using stuff you find at a big-box building supply store.
+* If possible, use a good quality external microphone positioned close to your subject. Adapters are available for connecting a mic to a phone.
+* If you don't have access to good audio recording equipment, consider using text overlays in your video instead of a voice-over.
+* Don't use the phone's (or camera's) digital zoom.  Move the camera or the object to get a closer shot.
+* Use exposure/focus lock. Otherwise, the camera or phone will refocus constantly and distractingly.
+* It's a lot easier to edit video on a proper computer rather than a phone or tablet. There are many free programs you can use to do this.
+* Less is more. Keep your shots simple and uncluttered. It should be blatantly obvious what the viewer should be focused on.
+* Only move the camera when absolutely necessary. When you do, focus on moving slowly, smoothly, and deliberately. Never change your mind mid-movement.
+* Tell a story with your product as the hero and the central narrative conflict as the problem your product solves.
+* Consider adding a music track to your video. Music can create emotional color and interest. Make sure you have the necessary permissions to use the music you want. Contact Crowd Supply if you need help finding appropriate music, we have access to a library of copyright-free tracks.
+
+## Still Photography
+
+High quality product photography is very important. Images are a great way to show off your product and help tell your story. A well balanced campaign should have a combination of detailed product shots on a plain white background along with lifestyle shots showing off the product in use in the real world.
+
+If you're not prepared or able to to do high quality photography yourself, you should hire a professional. Crowd Supply offers product photography on a project by project basis. If you are interested in this service, please contact your project manager.
+
+### Image Requirements
+
+- No text should be embedded in the image.
+- A white background is preferred.
+- All images should be at least 1000 pixels in the shortest dimension.
+- The main product image (the one that will get used on your "tile") should be at least 2000 pixels (preferably greater) in the shortest dimension.
+- Should be in PNG or JPG format.
+
+Avoid using in-image text, like the below:
+
+{image-bad-example-1}
+
+In-image text has no SEO value, isn't searchable or selectable by the viewer, would rarely be used by online media, and hurts the user experience, as it does not scale well to smaller devices such as tablets and phones.
+
+
+----------------------------------------------
+
+Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we can help.
+
+----------------------------------------------
+
+### The Crowd Supply Guide: Table of Contents
+
+#### For Everyone
+
+* [Proclamation of User Rights](/about#user-rights)
+
+#### For Backers
+
+* [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [How are Backers Protected?](/guide/backer-protection)
+
+#### For Creators
+
+**Intro & Overview**
+
+* [Quick Start](/guide/quick-start)
+* [Campaign Content Checklist](/guide/campaign-checklist)
+
+**Before Your Campaign Starts**
+
+* [Basic Campaign Page Content](/guide/campaign-content-basics)
+* [Define Your Community, Write Your User](/guide/on-campaign-text)
+* [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
+* [Set Funding Goals](/guide/funding-goals)
+* [Marketing and PR](/guide/marketing-and-pr)
+* Campaign Photography: Creating Stills and Videos
+* [Working with Manufacturers](/guide/working-with-manufacturers)
+* [Writing Style Guide](/guide/writing-style-guide)
+
+**During Your Campaign**
+
+* [Communicate With Your Backers](/guide/backer-communications)
+* [Engage Social Media](/guide/social-media-intro)
+* [Order Policies & Procedures](/guide/policies-and-procedures)
+
+**After Your Campaign Concludes**
+
+* [Your Campaign Has Ended, Now What?](/guide/when-your-campaign-ends)
+* [Fulfillment & Logistics](/guide/fulfillment-and-logistics)
+* [How Are Funds Received?](/guide/how-are-funds-received)
+* [When are Funds Received?](/guide/when-are-funds-received)
+
+----------------------------------------------
+
+Please send us your feedback on this Guide: [guide-feedback@crowdsupply.com](mailto:guide-feedback@crowdsupply.com).
+
+----------------------------------------------

@@ -1,0 +1,113 @@
+##*The Crowd Supply Guide:* Setting Funding Goals
+---------------
+
+Setting your campaign’s funding goal is one of the biggest decisions you'll need to make before your campaign launches. Getting it right can mean the difference between success and failure. 
+
+Luckily, there’s exactly one correct way to set your goal: ask for exactly what you need. Don't ask for more or less than what it will cost to manufacture, sell, and ship the product in the quantity you plan on building. That may sound circular and obvious, but if you consider the alternatives, you can see that they are mistakes:
+
+* *Ask for less money than you need and raise the rest later.* This is essentially gambling with your backers’ money and is disingenuous, especially if you don’t tell your backers about this plan beforehand. You will come off as naive at best, criminal at worst.
+
+* *Set your goal to be what you wish you could raise.* An aspirational goal can be healthy motivation for any product developer and, under the right conditions, almost any product could make it big. However, that uncertain success shouldn’t be the gating condition for simply getting the product made in the first place.
+
+* *Include already sunk costs in your goal.* Sunk costs, such as the cost of prototypes, testing, or video production, are simply the entrepreneurial risk you take in developing a product in the first place. Sunk costs are funds that you’ve spent whether or not you reach your goal, so why reduce the chance of your campaign succeeding (possibly allowing you to eventually recoup some or all of your investment) by including them in the funding goal?
+
+* *Shoot for an unnecessarily high minimum order quantity (MOQ).* Yes, the per-unit cost of manufacturing 10,000 units can be much less than that of manufacturing 100 units, but if the only difference in the campaign is a high funding goal and more margin in your pocket, you’re only doing yourself a disservice by making the campaign less likely to succeed. Keeping your MOQ low also affords you the flexibility to quickly iterate and make changes to the product.
+
+* *Set the goal high to convince the crowd you are serious.* The reality is that as long as you have a great product and clearly present a reasonable plan for delivering it, backers won’t think twice about a low funding goal. For proof of this, look no further than [Chibitronics’ Circuit Stickers](/chibitronics/circuit-stickers) campaign.
+
+Setting your funding goal to be what you need will not only steer you clear of the above mistakes, but doing so also has its own benefits by virtue of (typically) being a relatively low, achievable funding goal. Asking for just what you need has these benefits:
+
+* *Inspires backer confidence.* Many people won’t back a campaign unless they are confident it will succeed, even though there’s no risk in backing earlier.
+* *Makes it easier to overfund.* Raising ten times your goal sounds better than raising barely enough, even if the absolute amount raised is the same.
+* *Forces thoroughness.* To set the goal correctly, you'll need to firmly know your materials and manufacturing costs, as well as packaging and shipping expenses.
+* *It works!* In the end, perhaps the most compelling reason to set your funding goal to exactly what you need is anecdotal: we’ve never encountered (or even heard of) a project creator who has regretted doing so, whereas there are plenty of stories of regret behind every other method of setting a funding goal.
+
+## Funding Goal Checklist
+
+Hopefully, we've convinced you this is the best way to set your goal. So, what should you include in the funding goal specifically? All of this:
+
+* Bill of materials (BOM)
+* Cost of manufacture
+* Cost of any licensing or certification if needed
+* Shipping cost from manufacturer to fulfillment warehouse
+* Shipping cost from warehouse to customer
+* Product packaging and collateral (e.g., documentation)
+* Applicable fees (e.g., payment processing fees, crowdfunding fees, packaging & handling fees, etc.)
+* A small buffer (10-15%) in case of unexpected costs or increases
+
+Prices should be all inclusive and free of qualifiers or conditions. Prices need to be straightforward and clear. The price needs to reflect the complete shipping product: do not break down prices artificially. Explaining to backers what your budget looks like for shipping and fulfillment is strongly encouraged and should be added in a section in the campaign body. 
+
+
+## Stretch Goals
+
+In addition to your campaign's funding goal, you may want to consider adding stretch goals representing further funding milestones. Stretch goals can be decided either before or during your campaign and should be designed to reward backers for helping your campaign raise funds well beyond the funding goal. For example, a stretch goal of double your funding goal could reward backers with a free accessory and a stretch goal of three times your funding goal could reward backers with an added product feature. As always, we can advise on which stretch goal strategy will work best for your campaign.
+
+## Filling Out Pledge Levels, Pricing, and Shipping
+
+Prices should be whole-dollar amounts and, as explained above, must include US shipping charges, fulfillment fees, and all other costs reflected in the complete shipping product. 
+International shipping is calculated on a per-item basis. Free international shipping is encouraged where it is feasible to do so (generally, this will only apply to small, high-priced items). If it's not practical to offer free international shipping, consider offering free international shipping on accessories, but not the 'primary' product.
+
+Pledge level names should follow the same rules as the campaign title, with these additional constraints:
+
+- Limited to a maximum of 16 characters.
+- Prices should never be included in your product name or headline, unless the price of your product is actually a part of its name (e.g., "The $100 Laptop") and the price will remain the same forever.
+- You can include major parts of your campaign title in the pledge level title, but be mindful that it will almost always be displayed next to your campaign title: it doesn't need to stand alone.
+
+
+## See How It Works
+
+Watch Crowd Supply CEO Josh Lifton break down this whole process in a [recent webinar](https://blog.crowdsupply.com/2016/06/01/ceo-webinar-how-to-set-your-campaign-funding-goals/). 
+
+----------------------------------------------
+
+Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we can help.
+
+----------------------------------------------
+
+### The Crowd Supply Guide: Table of Contents
+
+#### For Everyone
+
+* [Proclamation of User Rights](/about#user-rights)
+
+#### For Backers
+
+* [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [How are Backers Protected?](/guide/backer-protection)
+
+#### For Creators
+
+**Intro & Overview**
+
+* [Quick Start](/guide/quick-start)
+* [Campaign Content Checklist](/guide/campaign-checklist)
+
+**Before Your Campaign Starts**
+
+* [Basic Campaign Page Content](/guide/campaign-content-basics)
+* [Define Your Community, Write Your User](/guide/on-campaign-text)
+* [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
+* Set Funding Goals
+* [Marketing and PR](/guide/marketing-and-pr)
+* [Campaign Photography: Creating Stills and Videos](/guide/project-video)
+* [Working with Manufacturers](/guide/working-with-manufacturers)
+* [Writing Style Guide](/guide/writing-style-guide)
+
+**During Your Campaign**
+
+* [Communicate With Your Backers](/guide/backer-communications)
+* [Engage Social Media](/guide/social-media-intro)
+* [Order Policies & Procedures](/guide/policies-and-procedures)
+
+**After Your Campaign Concludes**
+
+* [Your Campaign Has Ended, Now What?](/guide/when-your-campaign-ends)
+* [Fulfillment & Logistics](/guide/fulfillment-and-logistics)
+* [How Are Funds Received?](/guide/how-are-funds-received)
+* [When are Funds Received?](/guide/when-are-funds-received)
+
+----------------------------------------------
+
+Please send us your feedback on this Guide: [guide-feedback@crowdsupply.com](mailto:guide-feedback@crowdsupply.com).
+
+----------------------------------------------

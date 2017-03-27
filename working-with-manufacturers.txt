@@ -1,0 +1,115 @@
+{vlcsnap-2017-02-08-12h09m55s119}
+
+##*The Crowd Supply Guide:* Working with Manufacturers
+---------------
+
+Before your campaign gets underway,  you’ll need to identify and form partnerships with your manufacturers. That’s why it’s essential you have at least a prototype squared away *before* you start looking for manufacturing partners and launch your campaign. Picking the right manufacturer(s) is critically important; it can make or break your launch. You’ll need to do careful due diligence and make sure you get the decision right. 
+
+That said, working with manufacturers is a broad and complex topic that is highly dependent on the kind of product you are manufacturing. Covering the whole subject is well beyond the scope of this Guide. We’ll provide an overview and some important considerations and tips here, but you’ll need to do more research to understand specifics related to your particular product.
+
+### Prototyping
+
+While we don’t have an absolute requirement, typically we want an [Engineering Verification/Validation Test (EVT) prototype](https://blog.hwtrek.com/the-hardware-guide/evt-dvt-pvt/) in place before the campaign starts. Often, you’ll use the same manufacturer for prototype and production, though some creators make their own prototypes or use a small-scale prototyping shop and then go to a larger manufacturer.mg  A good manufacturer can do more than just crank out parts to your specs. They can also give you advice and suggestions on how to make your product easier and cheaper to manufacture and assemble. Provided they can work at your production scale, your prototype manufacturer will bring familiarity with the product and they will have a first-hand understanding of the best way to manufacture it. For that reason, make sure to involve your prototype manufacturer as soon as possible.
+
+Note that you probably need several prototypes to share with manufacturers as a reference. At minimum, you’ll need at least one prototype for every manufacturer you’ll be soliciting bids from. 
+
+### Finding Manufacturers
+
+Crowd Supply maintains a [provider directory of manufacturers and suppliers](https://www.crowdsupply.com/providers) who have worked with Crowd Supply creators in the past. We don’t list any provider we’re not experienced with. The directory is a great place to start. Beyond that, you’ll have to do some networking and research.
+
+Talk to other creators who have built similar products, or use similar components and/or manufacturing techniques. Ask who they went to and what their experience was like. Similarly, when you find a potential manufacturer, ask them for referrals and follow up with them to see what their experience was.
+
+Find a local manufacturer, if possible. Keeping it local does more than reduce impact and contribute to your community. It can also improve communications and responsiveness, allowing you more control over the quality of parts. Easier access to early runs also simplifies the transition from prototype to product. In addition, working with someone local will help you make contacts and build your community.
+
+{ptt-final-printer-sm}
+
+#### On-shore or Off
+
+For smaller production runs (think hundreds of items), you’re almost always better off going with domestic, ideally local, manufacturers. For larger runs, you’ll probably need to go overseas. (A great resource for working with Chinese suppliers and manufacturers is [Bunnie’s book on Shenzhen](https://www.crowdsupply.com/sutajio-kosagi/the-essential-guide-to-electronics-in-shenzhen).)
+
+While it’s certainly possible to work with an off-shore manufacturer directly, you might find it easier to employ a broker or agent who represents the factory (or factories) you’re interested in working with. They can help guide you through the process, answer questions, and set up accounts, shipping, etc. A good agent can help reduce risk, which is always a good thing for a small, start-up operation.
+
+To learn more about importing, licensing, customs, etc. the US Dept. of Homeland Security (in charge of Customs) has a page of helpful [Tips for New Importers and Exporters](http://www.cbp.gov/trade/basic-import-export/importer-exporter-tips).
+
+### Getting a Quote
+
+Once you’ve come up with a short list of potential manufacturers and have a prototype in hand, you’ll need to solicit quotes. You’ll use your prototype to develop your Bill of Materials (BoM). What gets included on the BoM varies considerably by product and industry, but generally speaking you should include:
+Part Description
+Part Number (p/n)
+Part type (color, value, size, etc.)
+Supplier/manufacturer (when applicable)
+Supplier/manufacturer’s p/n
+Quantity needed
+Be aware that the actual cost of manufacturing (raw material, labor, etc.) is only part of the deal. There are also packaging, shipping, customs, and tariff expenses. So when you’re comparing quotes, make sure all of these things are clear and accounted for. Quotes are negotiable, so don’t be shy about making counter-proposals. Finally, make sure you understand how long the quote will be valid. The manufacturing world changes rapidly.
+
+### Starting Production
+
+Manufacturers will use your prototype to make a sample for you. You will need to examine and test this sample very carefully. Inspect it closely, use it in real-world conditions. Check for correct fit and function, size and color, performance and specifications. Make a detailed list of things that need attention and make sure it’s all communicated very clearly to the factory or your agent.
+
+![](/img/95a2/cover-attach.gif)
+
+### Other Do’s and Don’ts
+
+* Make sure you have a clear, unambiguous schedule for what will get delivered when and where.
+* Know your manufacturer's minimum order quantities and rates (and understand that these may be negotiable).
+* Consider manufacturing techniques that work fine for small runs, not just techniques suited large scale, mass production.
+* To reduce costs and time associated with custom tooling, look for existing, pre-made parts
+* Whenever possible, go with local manufacturers. It will often save money in the long run.
+* Check with others in your network to see if there's anyone you could team up with to combine orders and so reduce costs.
+* Avoid the temptation to meet a high Minimum Order Quantity (MOQ) in order to save costs. Large MOQs can introduce risk, expense, and delays. For more, see this [blog post](http://www.berkeleysg.com/2016/03/much-shrimp-curse-moq/)
+* As you reach milestones in manufacturing and shipping, don’t forget to add Updates to your campaign page. It goes a long way to reassuring your backers and greatly reduces the time you spend answering repetitive email questions.
+
+----------------------------------------------
+
+Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we can help.
+
+----------------------------------------------
+
+### The Crowd Supply Guide: Table of Contents
+
+#### For Everyone
+
+* [Proclamation of User Rights](/about#user-rights)
+
+#### For Backers
+
+* [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [How are Backers Protected?](/guide/backer-protection)
+
+#### For Creators
+
+**Intro & Overview**
+
+* [Quick Start](/guide/quick-start)
+* [Campaign Content Basics](/guide/campaign-content-basics)
+* [Campaign Content Checklist](/guide/campaign-checklist)
+
+**Before Your Campaign Starts**
+
+* [Define Your Community, Write Your User](/guide/on-campaign-text)
+* [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
+* [Set Funding Goals](/guide/funding-goals)
+* [Marketing and PR](/guide/marketing-and-pr)
+* [Create a Press Kit](/guide/press-kits)
+* [Make a Project Video](/guide/project-video)
+* Working with Manufacturers
+* [Writing Style Guide](/guide/writing-style-guide)
+
+**During Your Campaign**
+
+* [Communicate With Your Backers](/guide/backer-communications)
+* [Engage Social Media](/guide/social-media-intro)
+* [Order Policies & Procedures](/guide/policies-and-procedures)
+
+**After Your Campaign Concludes**
+
+* [Your Campaign Has Ended, Now What?](/guide/when-your-campaign-ends)
+* [Fulfillment & Logistics](/guide/fulfillment-and-logistics)
+* [How Are Funds Received?](/guide/how-are-funds-received)
+* [When are Funds Received?](/guide/when-are-funds-received)
+
+----------------------------------------------
+
+Please send us your feedback on this Guide: [guide-feedback@crowdsupply.com](mailto:guide-feedback@crowdsupply.com).
+
+----------------------------------------------

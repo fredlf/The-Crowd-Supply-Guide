@@ -1,0 +1,85 @@
+##*The Creator Guide:* When are Funds Received?
+------------------
+
+After spending months developing a new product, launching a crowdfunding campaign, and watching the pledges roll in, creators are understandably anxious to get started actually manufacturing their first batch of product to send to backers. As such, it's important creators understand when they can expect to receive their funds. 
+
+Similarly, backers who use their hard-earned money to support campaigns and order goods from Crowd Supply want to know when and why they are charged, and when they can expect their orders to be fulfilled. These are all fair questions that span a lot of territory, so we thought we’d take some time to explain it all here.
+
+There are three types of transactions at Crowd Supply: crowdfunding campaign pledges, pre-orders, and standard in-stock orders. Each one works a little differently:
+
+###Crowdfunding Pledges 
+These are pledges to live crowdfunding campaigns that will help launch a project. That means backers are giving money to a creator who will use the capital to fund the first manufacturing run and bring the product to life. In exchange for this early support, backers are first in line to receive the product, typically at a discount off the intended retail price.
+
+Backers are charged only if and when the project meets its funding goal. Once the goal is met, product creators will also receive their backers’ contributions from Crowd Supply. 
+
+Should the goal be reached before the end-date of the campaign, creators will get funds shortly after the goal was met (collecting and transferring the money can take a few days), with any additional contributions transferred to the creator on the end-date of the campaign (assuming there were additional contributions).
+
+###Pre-orders 
+Once a project’s campaign has successfully concluded, it can start taking “pre-orders” for the product. Pre-orders are next in line after campaign pledges to receive the product, also often at a discount from regular retail. Pre-orders are fulfilled only after all commitments to crowdfunding backers have been met.
+
+We charge customers right when they place the pre-order because the project has already reached its funding goal and manufacturing is underway. Charging at the time the order is placed greatly reduces the number of failed charges that don’t go through. The more time elapses, the greater the likelihood of charges failing: cards expire, addresses change, etc. This is much less of an issue for crowdfunding backers because crowdfunding campaigns have hard, relatively short-term, ending dates. 
+
+Even though customers are charged at the time they place a pre-order, **funds collected from pre-orders are not transferred to creators until all crowdfunding orders have been fulfilled**. Unlike campaign pledges, pre-orders can be canceled for a refund, so funds need to be available for that purpose if and when it arises. 
+
+This should not present a hardship for creators because the campaign goal (plus anything raised beyond that) should have been calculated to wholly cover the costs of fulfilling all crowdfunding pledges. After all, that's the entire point of the funding goal in the first place. This system has proven effective for every fully-funded campaign in Crowd Supply’s history: all have been able to deliver product to backers and then go on to fulfill pre-orders and receive those funds.
+
+###In-Stock Sales 
+Once a product has been manufactured and all crowdfunding campaign orders and pre-orders have been fulfilled, many creators choose to continue to sell their product on the Crowd Supply site as the first retail outlet for the new product. 
+
+This works like any other traditional retailer/wholesaler relationship; creators sell product to Crowd Supply on wholesale terms and Crowd Supply pays those invoices accordingly. There is no exclusivity - creators are free to sell their product anywhere they like in addition to on Crowd Supply. Customers purchasing in-stock items from Crowd Supply are charged when they place their order and products are shipped almost immediately.
+
+We've built Crowd Supply to support new products as they evolve from crowdfunding to pre-order to in-stock. Each stage in this life cycle is aligned to both help creators and protect backers. If you have any thoughts or questions, please don’t hesitate to [get in touch](mailto:info@crowdsupply.com).
+
+----------------------------------------------
+
+Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we can help.
+
+----------------------------------------------
+
+### The Crowd Supply Guide: Table of Contents
+
+#### For Everyone
+
+* [Proclamation of User Rights](/about#user-rights)
+
+#### For Backers
+
+* [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [How are Backers Protected?](/guide/backer-protection)
+
+#### For Creators
+
+**Intro & Overview**
+
+* [Quick Start](/guide/quick-start)
+* [Campaign Content Checklist](/guide/campaign-checklist)
+
+**Before Your Campaign Starts**
+
+* [Basic Campaign Page Content](/guide/campaign-content-basics)
+* [Define Your Community, Write Your User](/guide/on-campaign-text)
+* [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
+* [Set Funding Goals](/guide/funding-goals)
+* [Marketing and PR](/guide/marketing-and-pr)
+* [Campaign Photography: Creating Stills and Videos](/guide/project-video)
+* [Working with Manufacturers](/guide/working-with-manufacturers)
+* [Writing Style Guide](/guide/writing-style-guide)
+
+**During Your Campaign**
+
+* [Communicate With Your Backers](/guide/backer-communications)
+* [Engage Social Media](/guide/social-media-intro)
+* [Order Policies & Procedures](/guide/policies-and-procedures)
+
+**After Your Campaign Concludes**
+
+* [Your Campaign Has Ended, Now What?](/guide/when-your-campaign-ends)
+* [Fulfillment & Logistics](/guide/fulfillment-and-logistics)
+* [How Are Funds Received?](/guide/how-are-funds-received)
+* When are Funds Received?
+
+----------------------------------------------
+
+Please send us your feedback on this Guide: [guide-feedback@crowdsupply.com](mailto:guide-feedback@crowdsupply.com).
+
+----------------------------------------------

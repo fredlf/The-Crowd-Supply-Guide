@@ -1,0 +1,200 @@
+##*The Crowd Supply Guide:* Basic Campaign Page Content
+-----------
+
+This article will help you create the basic content for your project's campaign page. For a complete list of everything you'll need to launch your campaign, see the [campaign checklist](/guide/campaign-checklist).
+
+-----------
+
+### Define Your Community
+
+The first step in building your campaign is identifying the crowd who'll support you. You need to spend some time defining your users and their use cases. What you come up with will inform the content of everything else in your campaign. We have some ideas and exercises to help you do this in The Guide's ["Write Your User" page](https://www.crowdsupply.com/guide/on-campaign-text).
+
+-------------
+
+### Project Title and Teaser
+
+The title and teaser are particularly important since they will be used in your project "tile", the box that summarizes your project in a variety of contexts on Crowd Supply's website. It will appear on your pre-launch page, on our "browse" page, and almost anywhere else your project is listed. It's the content that will be seen by the greatest number of people, so it's important to get it right.
+
+The title of your campaign should be a very succinct description of your product. Titles may be up to 36 characters, and should take one of the following forms:
+
+* ``product name`` e.g., "Superoven 5000"
+* ``product name: what it is`` e.g., "Superoven 5000: A Smart Phone-Controlled Baking Oven"
+* ``product name: action phrase`` e.g., "Superoven 5000: Bake Cakes with Your Phone"
+
+Normal title capitalization should be used:
+
+1. Capitalize the first and the last word.
+2. Capitalize nouns, pronouns, adjectives, verbs, adverbs, and subordinate conjunctions.
+3. Lowercase articles (a, an, the), coordinating conjunctions, and prepositions.
+4. Lowercase the "to" in an infinitive (I Want to Play Guitar).
+
+Periods, question marks, and exclamation points should not be used in titles.
+
+The campaign teaser should be a brief (up to 255 characters), accurate description of the product being offered. Question marks and exclamation points should be used only sparingly, if at all, in the teaser. Avoid hyperbole and clearly describe your product's basic characteristics, functions, and purpose.
+
+The title and teaser together should speak to a general audience. They should explain what the product is in plain language free of specialized jargon.
+
+Prices should generally *not* be included in the campaign title or the teaser, unless that is a defining point of the campaign (e.g., the price for that particular item is truly groundbreaking). Availability schedule should also not be included.
+
+-------------
+
+### Pre-launch Landing Page
+
+A pre-launch page will be used to start driving traffic to your campaign before it actually launches. It will consist of the title of your project, a very brief description of your project (usually an expanded version of the text from the teaser from above), an image or video, and some basic brand/creator identification. Prospective backers will use the page to sign up for notification of when your campaign goes live. The pre-launch page is a great tool for judging initial interest in your project and for getting early feedback on your idea, features, and/or design.
+
+The URL created for this page will be the same URL for the lifetime of the project. This means no dead links from old landing pages or emails and strong SEO. Your URL will be generated using your creator/brand name and project name, as in `https://www.crowdsupply.com/acme/superoven`. 
+
+#### Setting up a pre-launch page
+
+You'll work with your project manager to get your pre-launch "teaser" page set up. They will need:
+
+* Creator/Brand name
+* Project title and very brief description/teaser (120 chars. max). Often, this includes a short bullet list of features/functions.
+* Product Image
+* Optional video or additional images
+* Optional project updates (i.e., a brief update on progress towards launch)
+
+-------------
+
+### Pledge Levels, Pricing, and Shipping
+
+Prices should be whole-dollar amounts, and must include US shipping charges and fulfillment fees. Visit The Crowd Supply Guide article on [Setting Funding Goals](guide/funding-goals) for complete information on setting prices and funding goals
+
+-------------
+
+### Campaign Video
+
+You'll need a brief, high quality video that showcases your project, how it is used, and what problems it solves. For more advice on creating a campaign video, see our short but sweet [outline for making a campaign video](/guide/project-video).
+
+-------------
+
+### Photography and Other Images
+
+You will need to provide high quality product photos and, in many cases, diagrams and charts. For advice and requirements for product photography, see the [Campaign Photography page](/guide/project-video#still-photography).
+
+------------
+
+### Campaign Body Content
+
+The main text-and-images area of the campaign page is referred to as the "body". It should contain:
+
+1. A narrative description of the product, who will use it and why. Unlike the teaser, this can be much more tailored to your specific audience.
+2. Design features and specifications.
+3. Manufacturing plan.
+4. Risks and milestones.
+5. Some history about you and/or your organization.
+
+The ["Write Your User" page](https://www.crowdsupply.com/guide/on-campaign-text) is intended to help you generate this content. Note that press mentions, pledge levels, and other details are handled separately, outside of the campaign body text.
+
+#### Formatting text
+
+Crowd Supply's campaign page and update authoring tools allow you to use [Markdown formatting](https://daringfireball.net/projects/markdown/), a very simple, intuitive way of structuring text content for display as HTML. There are many good tutorials and guides for using Markdown, so spend a little time to learn the basics. You should be familiar with:
+
+- Markdown basics, paragraph structure.
+- Emphasis: italic and bold.
+- Lists and tables.
+- Code blocks
+- Images (including captions, title, and alt tags).
+- Links.
+
+-------------
+
+### Delivery Schedule
+
+This schedule is used to determine how many units of your product are available to backers and the expected ship date told to backers. A dynamic ship date will appear next to each pledge level that will change over time as more pledges are placed. This offers transparency so backers know when their order will ship. Note that it's *very* important to issue updates on delivery schedules during your campaign. Your schedule should look something like this:                                                       
+
+  Pledge    |  Quantity  |  Price per Unit  |      Ship Date     |
+------------|------------|------------------|--------------------|
+  Widget 1  |  0 - 100   |      5.99        |   August 15, 2020  |
+  Widget 2  | 101 - 500  |      3.99        | September 15, 2020 |
+
+-------------
+
+### Creator Details
+
+A “creator” refers to the people (or person) who are building a project. Sometimes this is an incorporated company, sometimes it’s a group of colleagues, and sometimes it’s just a single person. As a creator on Crowd Supply, you’ll have your own creator page, like this one:
+
+<https://www.crowdsupply.com/wild-outdoor-apparel>
+
+We'lll need the following to set up your creator page:
+
+**Company Description**  
+Briefly introduce your company (or just yourself, if you work alone). This text is public-facing and will be used for all projects created by this company.
+
+**Company Logo**  
+Please provide a PNG or JPG logo file.  If you don’t have a logo, you can use a headshot of yourself. High resolution is preferred.
+
+**Company Homepage**  
+Provide the URL for a link to your company's homepage from your creator page.
+
+**Location**  
+Provide your company/team's location.
+
+**Team Members**  
+Name, email address and title (if applicable). Private members will not be listed on the campaign page, but will receive questions submitted through the campaign page. Public members will both be listed on the campaign page and receive submitted questions. You should also provide an image to serve as an avatar to represent each of the public members on Crowd Supply.  You can simply provide the image you want to use, or you can use a [gravatar.com](http://gravatar.com) account.
+
+------------
+
+###  Writing Style
+
+Generally, Crowd Supply uses the standards described in the [Associated Press's (AP) style guide](http://en.wikipedia.org/wiki/AP_Stylebook). For more information on writing for Crowd Supply, see our [writing style guide](/guide/writing-style-guide).
+
+---------------
+
+### Driving Traffic
+
+Once the page is set up, you will need to take a *very* active role in driving traffic there. You'll want to email contacts, engage social networks and online forums, and so on as described in the [marketing and PR section](/guide/marketing-and-pr).
+
+----------------------------------------------
+
+Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we can help.
+
+----------------------------------------------
+
+### The Crowd Supply Guide: Table of Contents
+
+#### For Everyone
+
+* [Proclamation of User Rights](/about#user-rights)
+
+#### For Backers
+
+* [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [How are Backers Protected?](/guide/backer-protection)
+
+#### For Creators
+
+**Intro & Overview**
+
+* [Quick Start](/guide/quick-start)
+* [Campaign Content Checklist](/guide/campaign-checklist)
+
+**Before Your Campaign Starts**
+
+* Basic Campaign Page Content
+* [Define Your Community, Write Your User](/guide/on-campaign-text)
+* [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
+* [Set Funding Goals](/guide/funding-goals)
+* [Marketing and PR](/guide/marketing-and-pr)
+* [Campaign Photography: Creating Stills and Videos](/guide/project-video)
+* [Working with Manufacturers](/guide/working-with-manufacturers)
+* [Writing Style Guide](/guide/writing-style-guide)
+
+**During Your Campaign**
+
+* [Communicate With Your Backers](/guide/backer-communications)
+* [Engage Social Media](/guide/social-media-intro)
+* [Order Policies & Procedures](/guide/policies-and-procedures)
+
+**After Your Campaign Concludes**
+
+* [Your Campaign Has Ended, Now What?](/guide/when-your-campaign-ends)
+* [Fulfillment & Logistics](/guide/fulfillment-and-logistics)
+* [How Are Funds Received?](/guide/how-are-funds-received)
+* [When are Funds Received?](/guide/when-are-funds-received)
+
+----------------------------------------------
+
+Please send us your feedback on this Guide: [guide-feedback@crowdsupply.com](mailto:guide-feedback@crowdsupply.com).
+
+----------------------------------------------

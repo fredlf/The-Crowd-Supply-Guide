@@ -1,0 +1,114 @@
+##*The Crowd Supply Guide:* Order Fulfillment Policies and Procedures
+---------------------
+
+### Large Order Policies
+
+Placing large orders or purchase orders:
+
+* Large orders and purchase orders can be accommodated, but the payment must be submitted before the order can be added to the campaign page.
+
+* All pledge levels have to be public, so no hidden pledge levels for bulk orders. If you're afraid of what consumers will think if they see wholesale pricing, you should change your pricing.
+
+### Abandoned Orders Policies
+
+An "abandoned order" is one where the payment was rejected and never updated. For example, the backer used a credit card that expired before the campaign concluded but hasn't responded to requests for an update. In the event of abandoned orders, we'll take the following steps:
+
+1. Send a "payment abandoned" email giving the backer one week to update their payment.
+2. Send secondary abandoned payment email giving the backer 24 hours to update their payment or their order will be cancelled.
+
+After this time period, failed payments will be marked as abandoned and not count toward the final crowdfunding total. If a campaign meets its goal with pledged amounts, but not enough of those pledges are collected to actually meet the goal, the campaign fails and we refund all money, or find other pledges to fill in the gap.
+
+### Project Premium Return and Cancellation Policy
+
+Pledges committed to backers as a result of a funding campaign cannot be returned, exchanged, or refunded via Crowd Supply. The product creator is responsible for providing a good faith estimate of the product description, risks, and timeline for their projects. 
+
+Due to the uncertainties inherent in creating new products, during the early stage of development changes may occur to features, performance, and/or appearance. Possible reasons for this include technology limitations, issues with availability of parts or materials, or other factors outside of your control. Timelines may slip, and in rare instances a project that was funded may not be completed and delivered. Backers should only pledge to a creator’s project if they are comfortable accepting this uncertainty. If a backer is dissatisfied with a premium they should contact the project creator to share their concerns.
+
+### Backer Pledge Cancellation Policy
+
+* Backers are only charged if a Project meets its funding goal.
+* If a project does not meet the funding goal, the project is cancelled and backers are not charged.
+* Backers will only be charged once the project meets the target funding goal. These funds are transferred to the project creator in order to finalize development and begin production. No cancellations or credits will be provided by Crowd Supply for these pledges.
+* Pledges made after a project has met the funding goal are immediately charged.
+* Refund/return policies are up to the creator. 
+
+### Crowd Supply Store Returns Policy
+
+For all items pre-ordered from Crowd Supply after the campaign concludes, customers can cancel their order for store credit at any time prior to product shipment. Refunds are at Crowd Supply's discretion.
+
+For all items purchased from the Crowd Supply Store, customers receive a 30-day satisfaction guarantee:
+
+*Should any item fail to meet your expectations, simply return the item in new condition and we will gladly exchange it, refund your purchase price with a store credit, or credit your credit card. If you're not sure if a product is going to work for you, we ask that you please keep all packing materials for shipping should you decide to return it.*
+
+*No return authorization number is necessary. Just ship your items back to us with a copy of your invoice or a printout of your confirmation email, and a note indicating how you'd like us to handle the return (cash, credit, or exchange). Please include your daytime phone number in case we have any questions.*
+
+### Taxes
+
+#### Sales Taxes
+We don't collect domestic taxes or VAT because we are located in Oregon, which does not have a sales tax. Backers will be responsible for any import taxes applicable to their region.
+
+#### Income Taxes
+
+Funds received from orders are considered income and will probably fall under the category of [1099 income](https://support.stripe.com/questions/will-i-receive-a-1099-k-and-what-do-i-do-with-it). You should consult with a tax professional to help determine your liability and responsibility.
+
+### The Fine Print
+
+* [Shipping policy represented to customers placing an order on Crowd Supply](https://www.crowdsupply.com/shipping).
+* [Crowd Supply Warehouse and Fulfillment Services Agreement](/fulfillment-agreement).
+* The legal [Terms of Use](https://www.crowdsupply.com/terms-of-use) backers and creators agree to by using Crowd Supply.
+
+
+----------------------------------------------
+
+Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we can help.
+
+----------------------------------------------
+
+### The Crowd Supply Guide: Table of Contents
+
+#### For Everyone
+
+* [Proclamation of User Rights](/about#user-rights)
+
+#### For Backers
+
+* [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [How are Backers Protected?](/guide/backer-protection)
+
+#### For Creators
+
+**Intro & Overview**
+
+* [Quick Start](/guide/quick-start)
+* [Campaign Content Checklist](/guide/campaign-checklist)
+
+**Before Your Campaign Starts**
+
+* [Basic Campaign Page Content](/guide/campaign-content-basics)
+* [Define Your Community, Write Your User](/guide/on-campaign-text)
+* [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
+* [Set Funding Goals](/guide/funding-goals)
+* [Marketing and PR](/guide/marketing-and-pr)
+* [Campaign Photography: Creating Stills and Videos](/guide/project-video)
+* [Working with Manufacturers](/guide/working-with-manufacturers)
+* [Writing Style Guide](/guide/writing-style-guide)
+
+**During Your Campaign**
+
+* [Communicate With Your Backers](/guide/backer-communications)
+* [Engage Social Media](/guide/social-media-intro)
+* Order Policies & Procedures
+
+**After Your Campaign Concludes**
+
+* [Your Campaign Has Ended, Now What?](/guide/when-your-campaign-ends)
+* [Fulfillment & Logistics](/guide/fulfillment-and-logistics)
+* [How Are Funds Received?](/guide/how-are-funds-received)
+* [When are Funds Received?](/guide/when-are-funds-received)
+
+----------------------------------------------
+
+Please send us your feedback on this Guide: [guide-feedback@crowdsupply.com](mailto:guide-feedback@crowdsupply.com).
+
+----------------------------------------------
+

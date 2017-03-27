@@ -1,0 +1,133 @@
+{webinar-blog}
+
+##*Crowd Supply Guide:* How are Funds Received?
+--------------------
+
+**Your success is our success.** We don't make money unless you do.
+
+------------------------------------
+
+Crowd Supply follows an all-or-nothing funding model. If your campaign meets its goal, then you get all the money raised, less fees. Otherwise, no one is charged.
+
+
+## Timing
+You'll receive funds from your campaign's backers at four times:
+
+1. As soon as your campaign hits its funding goal, the pledges up until that point will be batch processed. You should receive funds (less applicable fees) within 10 days
+1. The balance of remaining pledges will be processed as soon as your funded campaign ends. You will receive funds (less applicable fees) within 10 days
+1. Once you fulfill all the orders from your original campaign, you will receive funds (less applicable fees) from the pre-orders placed since the campaign concluded.
+1. Whenever Crowd Supply decides it needs to refill its own inventory of your product
+
+These are general timelines and are subject to change with the particulars of each campaign. To learn more, please visit the [When are Funds Received? page](/guide/when-are-funds-received).
+
+## Fees
+Crowd Supply's fee structure is straightforward:
+
+* Credit card processing fee: 2.9% + $0.30 per transaction
+* Crowdfunding fee: depending on your [service plan](/launch#pricing), 5-15% of total pledged during your campaign
+* Pre-order fee: optional; 10% of total pledged after your campaign ends
+* Fulfillment fee: optional; see [Fulfillment and Logistics](/guide/fulfillment-and-logistics) for more details
+* If a campaign does not reach its funding goal, no money is collected and no fees charged
+
+## Payment Methods: Options & Timing
+
+We offer three different options for receiving your campaign funds. Please carefully read about each option below and let us know which you prefer.
+
+### Automated Clearing House (ACH)
+
+ACH transfers are an efficient and inexpensive way to receive funds from Crowd Supply into a US-based bank account. There is a one-time setup process which takes two to three business days to complete, but all transfers thereafter occur within a single business day. Crowd Supply does not charge a fee for ACH transfers. To set up ACH transfers, you will need to provide Crowd Supply with:
+
+- Bank name
+- Bank routing number
+- Account holder name
+- Account number
+
+### Paper Check
+
+To receive your project funds via a paper check sent through the US Postal Service, please provide Crowd Supply with the following details:
+
+- Name to make the check out to
+- Mailing address
+
+Check payments sent to US addresses typically arrive in 7-10 business days.
+
+### Wire Transfer
+
+You can also request to be paid via wire. However, you are responsible for all outgoing wire fees from Crowd Supply. Domestic transfers incur a $25 fee. International transfers incur a $40 fee. All international wire transfers require a single test transfer before the full amount is transferred. The below wire information will need to be completed and sent to Crowd Supply to initiate the wire.
+
+#### US Domestic Wires
+
+* Bank name
+* Bank address
+* SWIFT code or routing number
+* Account holder name
+* Account holder address
+* Account Number
+* Account type (savings or checking)
+
+#### International Wires
+
+* Bank name
+* Bank address
+* SWIFT code
+* Account holder name
+* Account holder address
+* IBAN
+* Account type (savings or checking)
+
+----------------------------------------------
+
+Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we can help.
+
+----------------------------------------------
+
+### The Crowd Supply Guide: Table of Contents
+
+#### For Everyone
+
+* [Proclamation of User Rights](/about#user-rights)
+
+#### For Backers
+
+* [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [How are Backers Protected?](/guide/backer-protection)
+
+#### For Creators
+
+**Intro & Overview**
+
+* [Quick Start](/guide/quick-start)
+* [Campaign Content Checklist](/guide/campaign-checklist)
+
+**Before Your Campaign Starts**
+
+* [Basic Campaign Page Content](/guide/campaign-content-basics)
+* [Define Your Community, Write Your User](/guide/on-campaign-text)
+* [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
+* [Set Funding Goals](/guide/funding-goals)
+* [Marketing and PR](/guide/marketing-and-pr)
+* [Campaign Photography: Creating Stills and Videos](/guide/project-video)
+* [Working with Manufacturers](/guide/working-with-manufacturers)
+* [Writing Style Guide](/guide/writing-style-guide)
+
+**During Your Campaign**
+
+* [Communicate With Your Backers](/guide/backer-communications)
+* [Engage Social Media](/guide/social-media-intro)
+* [Order Policies & Procedures](/guide/policies-and-procedures)
+
+**After Your Campaign Concludes**
+
+* [Your Campaign Has Ended, Now What?](/guide/when-your-campaign-ends)
+* [Fulfillment & Logistics](/guide/fulfillment-and-logistics)
+* How Are Funds Received?
+* [When are Funds Received?](/guide/when-are-funds-received)
+
+----------------------------------------------
+
+Please send us your feedback on this Guide: [guide-feedback@crowdsupply.com](mailto:guide-feedback@crowdsupply.com).
+
+----------------------------------------------
+
+
+

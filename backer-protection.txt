@@ -1,0 +1,109 @@
+## *Crowd Supply Guide:* How are Backers Protected?
+------------------
+
+Backer protection is built into Crowd Supply from the ground up. It’s part of our basic business philosophy, and is reflected in both our policies and our practices. We’ll take the rest of this section of the Backer Guide to explain exactly how that works.
+
+### Our Approach To Crowdfunding
+
+We’re not going to sugar-coat this, backing a product before it goes to market does entail some inherent risk. Delays, shortages, design problems, and other unforeseen issues can delay or prevent a project from getting to market. When you back a crowdfunding campaign for a new product, you’re essentially placing a bet on the creator to come through on their end of the deal. Backers need to be comfortable with some degree of risk. That’s why we do as much as we can to tilt the odds in favor of backers and creators alike. This approach is proven to work: every project that has ever received funds through Crowd Supply has delivered to their backers (or is on track to do so). You are not funding someone’s pipe-dream; at Crowd Supply you are purchasing an actual product.
+
+### How We Choose Projects
+
+We carefully curate all the projects that launch on Crowd Supply. The majority of project submissions don't make our cut. Those that do make it have:
+
+1. **A Good Product**: We like products that are [original, useful, and respectful](/about).
+
+2. **A Good Plan to Raise Funds**: Different funding goals require different approaches. We make sure the funds a project will likely raise align with its funding goal. We do this by looking at what kind of community the project has already built up, who else might be interested, what kind of messaging the project uses, pricing, the funding goal itself, and more.
+
+3. **A Good Plan to Spend Funds**: Once a project raises funds, it needs to spend them to get the product manufactured. We make sure the project has a credible plan for coming up with the final products. We do this by looking at prototypes, the bill of materials (BOM), the experience of the project team and partners, tooling and fulfillment costs, and more.
+
+For those projects that don't pass this vetting process, we try to give them as much feedback as possible so they can improve their project and try again.
+
+### How We Help Projects
+
+Once a project is accepted to launch on Crowd Supply, we take an active role in helping it succeed. From strategy and public relations, to fulfillment and media production, we offer a [range of optional services](/launch#pricing) to help a project wherever it's needed most. In addition, to each new project, we bring the experience of having launched hundreds of other products. Of course, projects can also tap into the existing community of Crowd Supply creators - for example, our [Provider Directory](/providers) is a great resource for finding suppliers and manufacturers with a track record at Crowd Supply.
+
+### Terms and Policies: Return, Refund, Cancellation 
+
+Details of our official return and cancellation policies are below. At a high level, our terms and policies can be summarized as:
+
+* Backers aren't charged until the funding goal has been met.
+* We work with creators to ensure the funding goal is enough to [manufacture and deliver](/guide/funding-goals) the product.
+* If a creator cannot or will not deliver the product they promised, they are required to provide a refund.
+* We are strong advocates of digital [privacy](/privacy-policy) and [security](/security).
+
+#### Project Premium Return and Cancellation Policy  
+
+At the discretion of the product creator, premiums committed to backers as a result of a funding campaign may be exchanged or refunded. The product creator is responsible for providing a good faith estimate of the product description, risks, and timeline for their projects. Due to the uncertainties inherent in creating products during the early stage of development, changes to features, performance, and/or appearance may occur between when a concept is originally presented and when it is produced. Reasons for this may include technology limitations, or other factors outside of the developer's control. Timelines may slip, and in rare instances a project that was funded may not be completed and delivered. Backers should only pledge to a creator’s project if they are comfortable accepting this uncertainty. If a backer is dissatisfied with a premium they should contact the project creator to share their concerns.
+
+#### Backer Pledge Cancellation Policy  
+* Backers are only charged if a Project meets its funding goal.
+* If a project does not meet the stated funding goal, the project is cancelled and backers are not charged for their pledge commitments.
+* Backers who pledge to fund a project that is successful in meeting its stated funding goal will be charged soon after the project meets the target funding goal (which may come before the campaign end date). These funds are transferred to the project creator in order to finalize development and begin production.
+* Pledges made after a project has met the funding goal are immediately charged. No cancellations can be made at this time. 
+
+#### Crowd Supply Store Returns Policy    
+For all items pre-ordered from the Crowd Supply Store, customers can cancel their order for a refund (less transaction fees, if applicable) at any time prior to product shipment. 
+For all items purchased from the Crowd Supply Store, customers are provided a 30-day satisfaction guarantee. Should any item fail to meet your expectations, simple return the item in new condition and we will gladly exchange it, refund your purchase price with a store credit, or credit your credit card. If you're not sure if a product is going to work for you, we ask that you please keep all packing materials for shipping, should you decide to return it.
+No return authorization number is necessary. Just ship your items back to us with a copy of your invoice or a printout of your confirmation email and a note indicating how you'd like us to handle the return (refund or exchange). Please include your daytime phone number in case we have any questions.
+
+Please send all returns to our fulfillment center:
+
+Crowd Supply, Inc.  
+340 SE 6th Ave  
+Portland, OR 97214
+
+
+----------------------------------------------
+
+Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we can help.
+
+----------------------------------------------
+
+### The Crowd Supply Guide: Table of Contents
+
+#### For Everyone
+
+* [Proclamation of User Rights](/about#user-rights)
+
+#### For Backers
+
+* [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* How are Backers Protected?
+
+#### For Creators
+
+**Intro & Overview**
+
+* [Quick Start](/guide/quick-start)
+* [Campaign Content Checklist](/guide/campaign-checklist)
+
+**Before Your Campaign Starts**
+
+* [Basic Campaign Page Content](/guide/campaign-content-basics)
+* [Define Your Community, Write Your User](/guide/on-campaign-text)
+* [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
+* [Set Funding Goals](/guide/funding-goals)
+* [Marketing and PR](/guide/marketing-and-pr)
+* [Campaign Photography: Creating Stills and Videos](/guide/project-video)
+* [Working with Manufacturers](/guide/working-with-manufacturers)
+* [Writing Style Guide](/guide/writing-style-guide)
+
+**During Your Campaign**
+
+* [Communicate With Your Backers](/guide/backer-communications)
+* [Engage Social Media](/guide/social-media-intro)
+* [Order Policies & Procedures](/guide/policies-and-procedures)
+
+**After Your Campaign Concludes**
+
+* [Your Campaign Has Ended, Now What?](/guide/when-your-campaign-ends)
+* [Fulfillment & Logistics](/guide/fulfillment-and-logistics)
+* [How Are Funds Received?](/guide/how-are-funds-received)
+* [When are Funds Received?](/guide/when-are-funds-received)
+
+----------------------------------------------
+
+Please send us your feedback on this Guide: [guide-feedback@crowdsupply.com](mailto:guide-feedback@crowdsupply.com).
+
+----------------------------------------------

@@ -1,0 +1,108 @@
+{1working-2}
+
+##*The Crowd Supply Guide:* Quick Start Overview
+-----------
+
+We work with creators from all over the world on all sorts of worthwhile projects, but for all of them, the process is the same. This section of the *Crowd Supply Guide* will help you with all aspects of running a crowdfunding campaign and launching your product on Crowd Supply, from the spark of an idea to shipping orders. 
+
+Start with this Overview, which will walk you through the steps of bringing your product to life. For each step, we'll point you towards other parts of the Guide for more help and resources.
+
+### Before Your Campaign Starts
+
+1. **Get in touch.** It's never too early to talk to us about your project and get feedback on your plans. We have years of engineering and product experience, which we'll use to help you avoid early and costly mistakes. Start by filling out our [project submission form](/project-submission). We accept projects from creators anywhere in the world.
+
+1. **Create a "Coming Soon" page.** This is a [pre-launch page](/guide/campaign-content-basics) on Crowd Supply's site used to build excitement and collect email sign-ups for the upcoming campaign. The pre-launch page will turn into your campaign page when your campaign launches. Check out some the [projects launching soon at Crowd Supply](/prelaunch).
+
+1. **Develop a manufacturing plan.** If you haven't already, develop your testing and manufacturing plan. Your suppliers, manufacturers, and collaborators should be lined up well ahead of launch, along with a functioning prototype. Our [Provider Directory](/providers) is a good place to start. Reach out to others who are building similar products.
+
+1. **Set your funding goal.** You need to set a [pragmatic goal](/guide/funding-goals) that covers everything you will need to deliver your product to your campaign backers.
+
+1. **Develop your marketing plan.** Your [public relations and marketing plan](/guide/marketing-and-pr) will detail how you plan to build a community around your project, and how you will reach out to media outlets, reviewers, and other influencers.
+
+1. **Develop a backer communication plan.** Determine how often you will [communicate with your backers](/guide/backer-communications), and what content and milestones you will share. You may wish to work with a professional writer if you don't have these skills yourself. Crowd Supply can provide some editorial assistance.
+
+1. **Create a project timeline.** Note significant dates, past and future. At minimum you should include:
+    * Estimated start and end dates of your campaign
+    * Date of first prototype or other product development milestones
+    * Start date of first manufacturing run
+    * Ship date of the first unit off the production line
+    * Ship date of the last unit off the production line  
+  
+  
+1. **Develop a fulfillment plan.** Determine how you will physically get your finished product to your eager backers. You can use [Crowd Supply's fulfillment services](/guide/fulfillment-and-logistics), a third-party fulfillment provider, or do it yourself. Don't forget to account for things like packaging, documentation, and other collateral you'll be including with orders.
+
+1. **Create a project page.** Crowd Supply will take care of building and hosting the page, but you'll need to [provide the content](/guide/campaign-content-basics) that helps potential and current backers learn about, pledge to, and stay up-to-date with your project. There's a detailed [checklist of all the content](/guide/campaign-checklist) we'll need from you to assemble the campaign page.
+
+1. **Build your team.** Larger (but not too large) teams generally see greater success than solo efforts. With multiple members you can better build a team around individual strengths.
+
+### During Your Campaign
+
+1. [Communicate with your backers](/guide/backer-communications) by posting frequent news and updates to your campaign page. Be transparent about problems or delays, and share milestones and goals attained.
+
+1. Respond to questions from your backers and potential backers.
+
+1. Continue to execute the marketing plan you set forth before your campaign started. 
+
+1. Maintain momentum. Many campaigns experience a "U" shape in acquiring backers, with high traffic at the beginning and end, and a trough in the middle. Avoid this slump by staggering your media releases and social media posts, issuing frequent updates and news, and generally staying noisy.
+
+###After Your Campaign Concludes
+
+1. As soon as your goal is met [you'll begin receiving your funds](/guide/receiving-funds). 
+
+1. Continue selling on Crowd Supply. Your campaign page will continue to accept pre-orders once your campaign has ended. [Pre-orders](https://blog.crowdsupply.com/2014/06/09/raise-40-more-funding-with-zero-extra-effort/) will allow you to maximize your campaign raise until your product begins to ship. When it does, you can continue to sell on Crowd Supply with no exclusivity.
+
+1. Execute your fulfillment plan, whether you use Crowd Supply's [fulfillment and logistics services](/guide/fulfillment-and-logistics) or another solution. Between international customs forms, lost package insurance claims, changes of address, and shipping confirmation emails with tracking numbers, there's a lot to do.
+
+----------------------------------------------
+
+Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we can help.
+
+----------------------------------------------
+
+### The Crowd Supply Guide: Table of Contents
+
+#### For Everyone
+
+* [Proclamation of User Rights](/about#user-rights)
+
+#### For Backers
+
+* [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [How are Backers Protected?](/guide/backer-protection)
+
+#### For Creators
+
+**Intro & Overview**
+
+* Quick Start
+* [Campaign Content Checklist](/guide/campaign-checklist)
+
+**Before Your Campaign Starts**
+
+* [Basic Campaign Page Content](/guide/campaign-content-basics)
+* [Define Your Community, Write Your User](/guide/on-campaign-text)
+* [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
+* [Set Funding Goals](/guide/funding-goals)
+* [Marketing and PR](/guide/marketing-and-pr)
+* [Campaign Photography: Creating Stills and Videos](/guide/project-video)
+* [Working with Manufacturers](/guide/working-with-manufacturers)
+* [Writing Style Guide](/guide/writing-style-guide)
+
+**During Your Campaign**
+
+* [Communicate With Your Backers](/guide/backer-communications)
+* [Engage Social Media](/guide/social-media-intro)
+* [Order Policies & Procedures](/guide/policies-and-procedures)
+
+**After Your Campaign Concludes**
+
+* [Your Campaign Has Ended, Now What?](/guide/when-your-campaign-ends)
+* [Fulfillment & Logistics](/guide/fulfillment-and-logistics)
+* [How Are Funds Received?](/guide/how-are-funds-received)
+* [When are Funds Received?](/guide/when-are-funds-received)
+
+----------------------------------------------
+
+Please send us your feedback on this Guide: [guide-feedback@crowdsupply.com](mailto:guide-feedback@crowdsupply.com).
+
+----------------------------------------------

@@ -1,0 +1,106 @@
+##*The Crowd Supply Guide:* Communicating With Your Backers
+---------------------
+
+Frequent and transparent communication with your backers is vital to the success of your crowdfunding campaign, and will keep your backers supportive of you even should you not reach your goal. This article provides some useful advice and basic templates for communicating with current and potential backers.
+
+Typically, there are two types of communication with backers:
+
+1. Answering campaign questions, including questions about fulfillment and shipping.
+1. Announcing project updates, both during and after the campaign.
+
+Successful creators are constantly in contact with their backers through both of these channels.
+
+### 1. Answering Campaign Questions
+
+Launching your new product into the world is going to produce some questions. If your product is particularly complex or technical, consider adding a Frequently Asked Questions section on your project page. However, you will also receive some questions from backers and prospective backers during the campaign. These will come to the email address you provided when you set up your campaign. 
+
+You should answer questions as soon as possible and, with particularly good or common questions, add them to the project description or, if applicable, the FAQ. Do this frequently and quickly. You can be certain that for every one person who writes in with a question, many more have the same question but don't bother to write.
+
+### 2. Project Updates
+
+Both during and after your campaign, keeping in regular contact with your backers is absolutely essential. Project Updates are the easiest and most effective way to do this. Get ahead by planning your updates for the campaign before your project even launches. Plan on two updates per week during the campaign and two updates per month after the campaign's conclusion.
+
+Keep your updates short and compelling, just a small handful of paragraphs at most. Keep them simple and focused.
+
+##### During the campaign:
+
+* Celebrate milestones - e.g., 25% funded, first prototype completed, etc.
+* Release sharable content - e.g., "look at our product do this!"
+* Release stretch goals - if applicable.
+
+##### After the campaign:
+
+* Send out regular production updates - even if not much new has taken place, let your backers know you are at work and share any relevant images or videos. People really connect to images of their goods being produced.
+* Get ahead of unforeseen delays by being transparent about them as they occur, instead of answering worried backers' questions after the fact due to lack of communication.
+* Make sure you let your backers know when you are about to ship so addresses can be checked and properly updated.
+
+The second two items are especially important. Keeping your backers up-to-date about when you plan to ship will help to reassure them and will greatly reduce the volume of email, etc. from concerned backers who want to know when they'll see their goods. Your first customers are your most important, don't let them feel neglected by not communicating with them. A simple sentence or two along with an image goes a long way!
+
+#### Posting An Update
+
+To post an update, email it to your project manager at Crowd Supply. Provide them with the update title, text and any images or videos. Your update will then be posted to the site and emailed out to all of those who have signed up for notifications or have supported your project.
+
+Great updates might include product development progress, new insights, lessons learned, problems solved, new use cases, milestones met, anticipated shipping dates, and more. Be sure to also share the delays or changes to your original plans. Most backers will understand if your shipping is delayed a bit, but they will begin to worry if they do not hear from you after a deadline has been missed.
+
+#### Examples
+
+Here are a few campaigns that have done a particularly good job with backer communication.
+
+* [Librem 13](/purism/librem-13/updates)
+* [Novena](/sutajio-kosagi/novena/updates)
+* [USB Armory](/inverse-path/usb-armory/updates)
+* [Numato Opsis](/numato-lab/opsis/updates)
+
+----------------------------------------------
+
+Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we can help.
+
+----------------------------------------------
+
+### The Crowd Supply Guide: Table of Contents
+
+#### For Everyone
+
+* [Proclamation of User Rights](/about#user-rights)
+
+#### For Backers
+
+* [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [How are Backers Protected?](/guide/backer-protection)
+
+#### For Creators
+
+**Intro & Overview**
+
+* [Quick Start](/guide/quick-start)
+* [Campaign Content Checklist](/guide/campaign-checklist)
+
+**Before Your Campaign Starts**
+
+* [Basic Campaign Page Content](/guide/campaign-content-basics)
+* [Define Your Community, Write Your User](/guide/on-campaign-text)
+* [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
+* [Set Funding Goals](/guide/funding-goals)
+* [Marketing and PR](/guide/marketing-and-pr)
+* [Campaign Photography: Creating Stills and Videos](/guide/project-video)
+* [Working with Manufacturers](/guide/working-with-manufacturers)
+* [Writing Style Guide](/guide/writing-style-guide)
+
+**During Your Campaign**
+
+* Communicate With Your Backers
+* [Engage Social Media](/guide/social-media-intro)
+* [Order Policies & Procedures](/guide/policies-and-procedures)
+
+**After Your Campaign Concludes**
+
+* [Your Campaign Has Ended, Now What?](/guide/when-your-campaign-ends)
+* [Fulfillment & Logistics](/guide/fulfillment-and-logistics)
+* [How Are Funds Received?](/guide/how-are-funds-received)
+* [When are Funds Received?](/guide/when-are-funds-received)
+
+----------------------------------------------
+
+Please send us your feedback on this Guide: [guide-feedback@crowdsupply.com](mailto:guide-feedback@crowdsupply.com).
+
+----------------------------------------------

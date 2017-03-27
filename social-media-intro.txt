@@ -1,0 +1,107 @@
+##*The Crowd Supply Guide:* Engage Social Media
+----------------------
+
+Like it or not, social media is now more critical to product marketing than ever. While we might not always agree with their policies or practices, platforms like Facebook, Twitter, Instagram, etc. play a vital role in building a community around a project. This is especially true for hardware and product crowdfunding campaigns. Building a vibrant, engaged community is essential to a successful campaign, and frankly that's almost impossible without engaging social media. Below are some basic guidelines for reaching backers, driving pledges, and building a community of supporters via social media.
+
+##Get Started on Social Media
+
+* Start by making a social media plan before your campaign launches. Write down how often you will share social media messages, and on what channels. Draft a variety of posts to have at the ready in your arsenal.
+* Set up your social accounts. Plan to post at least several times a week during your campaign to each of the major social media networks. The main social media channels to target are Facebook, Twitter, LinkedIn, Pinterest & Instagram.
+* Define your [social identity](http://www.adweek.com/socialtimes/the-social-strategy-a-five-step-process-for-social-media-marketing-success/624937). Find your voice, be human, and be conversational. Plan and practice how you’ll say things, not just what you’ll say.
+* Join interest groups (LinkedIn, Reddit, Facebook, forums) that are relevant to your product and/or its users. Actively engage in discussions by answering questions and leaving comments.
+
+##Build your Audience
+
+* Invite people in your network to like your Facebook page or follow you on Twitter. Especially potential backers.
+* Ask people to follow you on social networks by adding a “follow” button or link on your website, in your newsletter, your email signature, etc.
+* Share content that your current followers would be likely to share to create a viral effect.
+Use [hashtags](https://www.facebook.com/help/587836257914341), so that people follows specific conversations or keywords have a better chance of seeing it.
+* Follow influencers in your target market. These are people that share content frequently about the industry your product serves or its users. Find ways to engage them that's not overtly "markety" - contribute productively to conversations. Share your product if/ when it's relevant to the discussion.
+* You might give [Facebook ads](https://www.facebook.com/business/a/advertising/) or [Twitter cards](https://dev.twitter.com/cards/overview) a try. You can run campaigns at a reasonably low price point, and target ads to users by age, demographic, location, interests, et cetera.
+* Drive people to like your page, read an article, visit your website, or back a project by posting right in their timeline.
+
+##Share Relevant and Interesting Content
+
+* Be human, be helpful, and be relevant.
+* Don't just post about your product. Share other articles and links that might be of interest to your product category and to your target followers.
+* Share high-quality photos of your product, design, the process, and other imagery that’s relevant. Give them a look behind the scenes, share your challenges and successes. Try to pluck their heartstrings.
+* Always link to your campaign page when promoting the product!
+* Be transparent with your customers. Sharing product updates, keeping backers in the loop and showing progress (or set backs) as your project comes along will ease their concerns and build trust.
+* Post at the [right time](http://www.adweek.com/socialtimes/best-time-to-post-social-media/504222), when your audience is most likely online.
+* If you enjoy the spotlight, you might want to give live video a try with Periscope or Facebook's new live video feature. Show off your prototype, share some news, or invite people to peek in on the development process.
+
+##Never Do These Things
+
+It's easy to make mistakes on social media, but hard to make those mistakes go away. Don't make them in the first place by avoiding the following:
+
+* Spamming - Do not send unwanted solicitations, messages, or push for a sale too heavily.
+* Being rude or annoying. Or lying. Please don’t lie. Not even a little.
+* Insulting or attacking your competition.
+* Engaging in social media arguments or losing your cool. Don't feed the trolls.
+
+##Useful Tools & Links
+
+There are a lot of tools out there to help you automate and optimize your social media activity. Unfortunately, most of them are proprietary and not as respectful of user privacy as we might wish. But, they are very effective and useful enough to be all but essential. Use them judiciously and with forethought and care for your audience. These are just a few we’ve used and found effective and useful. Try them out, and let us know if you find any better solutions.
+
+* [TweetDeck](https://tweetdeck.twitter.com/): For real-time tracking, organizing, and engagement.
+* [Buffer](https://buffer.com/): A free tool for scheduling and managing social media posts in one place
+* [Hootsuite](https://hootsuite.com/): A complete social media management platform.
+* [Little Bird](http://www.getlittlebird.com/): Find the most influencers, customers and content for your product and industry.
+* [Bit.ly](https://bitly.com/a/bitlinks): To shorten links and track audience engagement with analytics
+* [A Beginner's Guide to Social Media](https://moz.com/beginners-guide-to-social-media): A comprehensive playbook for social media from the fine folks at MOZ.
+
+Be prepared to dedicate a good bit of time and attention to your social media channels, at least a couple of hours a day. If that's not for you and you have some marketing budget, enlist a pro to help. We have a great network of experienced digital marketing professionals you can tap into for launching on Crowd Supply.
+
+----------------------------------------------
+
+Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we can help.
+
+----------------------------------------------
+
+### The Crowd Supply Guide: Table of Contents
+
+#### For Everyone
+
+* [Proclamation of User Rights](/about#user-rights)
+
+#### For Backers
+
+* [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [How are Backers Protected?](/guide/backer-protection)
+
+#### For Creators
+
+**Intro & Overview**
+
+* [Quick Start](/guide/quick-start)
+* [Campaign Content Checklist](/guide/campaign-checklist)
+
+**Before Your Campaign Starts**
+
+* [Basic Campaign Page Content](/guide/campaign-content-basics)
+* [Define Your Community, Write Your User](/guide/on-campaign-text)
+* [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
+* [Set Funding Goals](/guide/funding-goals)
+* [Marketing and PR](/guide/marketing-and-pr)
+* [Campaign Photography: Creating Stills and Videos](/guide/project-video)
+* [Working with Manufacturers](/guide/working-with-manufacturers)
+* [Writing Style Guide](/guide/writing-style-guide)
+
+**During Your Campaign**
+
+* [Communicate With Your Backers](/guide/backer-communications)
+* Engage Social Media
+* [Order Policies & Procedures](/guide/policies-and-procedures)
+
+**After Your Campaign Concludes**
+
+* [Your Campaign Has Ended, Now What?](/guide/when-your-campaign-ends)
+* [Fulfillment & Logistics](/guide/fulfillment-and-logistics)
+* [How Are Funds Received?](/guide/how-are-funds-received)
+* [When are Funds Received?](/guide/when-are-funds-received)
+
+----------------------------------------------
+
+Please send us your feedback on this Guide: [guide-feedback@crowdsupply.com](mailto:guide-feedback@crowdsupply.com).
+
+----------------------------------------------
