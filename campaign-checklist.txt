@@ -1,0 +1,226 @@
+##*The Crowd Supply Guide:* Campaign Content Checklist
+
+------------------------
+
+Crowd Supply will work with creators from anywhere in the world, but for everyone, the process is the same. So, here's a comprehensive list of everything you will need to do to launch your campaign on Crowd Supply once you have a signed SoW in place with us. One of our campaign experts will work with you to create and gather this information, turn it into a private campaign page for your review, and refine the campaign page and collateral until it is ready for launch.
+
+Obviously, in order to complete many of the tasks on this list, you'll need to have some sort of prototype in hand.
+
+For detailed information, guidelines, and tips on creating this content, visit the [Campaign Content Basics page](/guide/campaign-content-basics).
+
+## Basics
+
+#### ☐ Identify Users and Their Use Cases
+
+This is vital. Determine who will want your project and what they will do with it. For help with this, take a look at the ["Write Your User" page](https://www.crowdsupply.com/guide/on-campaign-text).
+
+#### ☐ Creator Profile
+
+Used to build your Creator page. For detailed information about creating this content, visit the [Campaign Content Basics page](/guide/campaign-content-basics).
+
+* Name (Team, company, or individual creator). This will be used to create your Crowd Supply URL, as in `https://www.crowdsupply.com/company-name/product-name`.
+* Product Name. This will be used to create your Crowd Supply URL, as in `https://www.crowdsupply.com/company-name/product-name`.
+* Location (city, state, country)
+* Logo image (high resolution PNG or JPG)
+* Short company description/bio (teaser)
+* Optional: personal URL, long description
+
+#### ☐ Team Members
+
+For each team member, provide:
+
+* Name
+* Email
+* GitHub username
+* Location (city, state)
+* Profile image (e.g., headshot)
+* Optional: Role in project, Gravatar account.
+* Whether the member is "public" or “private” (visible on campaign page or not).
+
+## Financials
+
+#### ☐ BOM & COGS
+
+Provide a complete Bill of Materials and accounting of Cost of Goods Sold. This is a necessary prerequisite for determining premiums and pledge levels.
+
+#### ☐ Funding Goal
+
+Based on MOQ and COGS. Amount of USD$ you need to raise. For help coming up with this figure, visit the [Setting Funding Goals page](/guide/funding-goals).
+
+#### ☐ Premiums & Pledge Levels
+
+* List all of your premium and pledge levels. For more information about this content, visit the [Campaign Content Basics page](/guide/campaign-content-basics).
+* Reference images you want included here by filename.
+* For each pledge level, include:
+
+    * name (e.g., pre-order, early bird, etc.)
+    * image
+    * delivery schedule (dates and batch sizes)
+    * brief description
+    * price
+    * international shipping surcharge
+    * quantity limits, if any
+
+#### ☐ Stretch Goals (if any)
+
+## Pre-Launch
+
+#### ☐ Title
+A very short (36 characters max.) name and, optionally, description of your project. E.g., "Superoven 5000: A Smart Phone-Controlled Oven." The product name will be used to generate the URL for your campaign.
+
+#### ☐ Teaser
+A brief (120 characters max.) description of your project for your project’s campaign tile. For more information, see  [Campaign Content Basics page](/guide/campaign-content-basics).
+Optional:
+
+* other images
+* other text
+* pre-launch video
+* project updates
+
+## Campaign Page Content
+
+#### ☐ Campaign Dates
+
+Starting and ending dates during which the campaign will collect pledges.
+For tips and help with writing this content, visit the  [Campaign Content Basics page](/guide/campaign-content-basics) and the ["Write Your User" page](https://www.crowdsupply.com/guide/on-campaign-text). Crowd Supply can also provide editorial support.
+
+#### ☐ Product Narrative Text
+
+* Tells the story of your product: what it is, who will use it, and what problems will it solve for them.
+* Reference images you want included here by filename.
+
+#### ☐ Competitive Matrix
+
+* A table that compares the major features of your project with its competitors.
+* Include prices, dimensions, power requirements, etc. Browse through some similar projects on our site to see what other creators have done.
+
+#### ☐ Manufacturing Plan
+
+* The logistics of manufacturing your product.
+* Reference images you want included here by filename.
+
+####  ☐ Delivery Schedule
+
+* Determine how many units of your product are available to backers and the expected ship date.
+
+#### ☐ Fulfillment Plan
+
+* Schedule of when and how you will fulfill orders
+
+#### ☐ Risks and Challenges
+
+* Sources of potential problems
+* Reference images you want included here by filename.
+
+#### ☐ Product Specifications
+
+* Describes the physical attributes of your product.
+* Reference images you want included here by filename.
+
+#### ☐ Product Features
+
+* Describes the features and functional characteristics of your product.
+* Reference images you want included here by filename.
+
+### Video & Images
+
+Check out our [Campaign Photography](https://www.crowdsupply.com/making-video) page for tips, advice and requirements for creating a high quality campaign still and video imagery.
+
+####  ☐ Video
+
+* Filename or URL of your campaign video. We prefer Vimeo.
+* Videos can include live action, stills, graphics, and text overlays
+
+####  ☐ Still Images
+
+Provide the following images:
+
+☐ **Video Still** Filename of a captured image to be shown when your video is not playing.
+
+☐ **Main Body Images** Filenames of images to include in the main body of the page. Reference these images by filename in other sections.
+
+☐ **Brand Logo Image** Filename of the image to use to represent your team and brand. This image will automatically be included in the “team” section at the bottom of the campaign page.
+
+Make sure your images conform to the our [image requirements](/guide/campaign-content-basics#photography-and-other-images). If Crowd Supply is doing product photography, you will need to supply us with a prototype.
+
+## Outreach & Communications Plan
+
+####  ☐ PR/Marketing Plan
+
+How you plan to promote your campaign and draw in the crowd. Include:
+
+* Press release (optional)
+* PR contact list
+* List of online and other communities you and/or the project are involved in.
+* Launch-day backers list
+
+For more information, tips, and ideas for marketing, visit the [Marketing & PR page](/guide/marketing-and-pr).
+
+####  ☐ Communication to Backers Plan
+
+List of weekly or more frequent updates you'll send out to your backers and followers. For more information, visit the [Backer Communications page](/guide/backer-communications).
+
+## Further Details
+
+#### ☐ Project Timeline
+
+Notable milestones for this project both in the past and in the future.
+
+#### ☐ Fulfillment Plan
+
+Describe how you will deliver your premiums to backers.
+
+----------------------------------------------
+
+Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we can help.
+
+----------------------------------------------
+
+### The Crowd Supply Guide: Table of Contents
+
+#### For Everyone
+
+* [Proclamation of User Rights](/about#user-rights)
+
+#### For Backers
+
+* [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [How are Backers Protected?](/guide/backer-protection)
+
+#### For Creators
+
+**Intro & Overview**
+
+* [Quick Start](/guide/quick-start)
+* Campaign Content Checklist
+
+**Before Your Campaign Starts**
+
+* [When and How Should I Submit my Project to Crowd Supply?](/guide/when-to-submit)
+* [Basic Campaign Page Content](/guide/campaign-content-basics)
+* [Define Your Community, Write Your User](/guide/on-campaign-text)
+* [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
+* [Set Funding Goals](/guide/funding-goals)
+* [Marketing and PR](/guide/marketing-and-pr)
+* [Campaign Photography: Creating Stills and Videos](/guide/project-video)
+* [Working with Manufacturers](/guide/working-with-manufacturers)
+* [Writing Style Guide](/guide/writing-style-guide)
+
+**During Your Campaign**
+
+* [Communicate With Your Backers](/guide/backer-communications)
+* [Engage Social Media](/guide/social-media-intro)
+* [Order Policies & Procedures](/guide/policies-and-procedures)
+
+**After Your Campaign Concludes**
+
+* [Your Campaign Has Ended, Now What?](/guide/when-your-campaign-ends)
+* [Fulfillment & Logistics](/guide/fulfillment-and-logistics)
+* [How Are Funds Received?](/guide/how-are-funds-received)
+* [When are Funds Received?](/guide/when-are-funds-received)
+
+----------------------------------------------
+
+Please send us your feedback on this Guide: [guide-feedback@crowdsupply.com](mailto:guide-feedback@crowdsupply.com).
+
+----------------------------------------------
