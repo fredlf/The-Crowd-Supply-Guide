@@ -1,7 +1,7 @@
 ##*The Crowd Supply Guide:* Define Your Community, Write Your User
 ---------------
 
-As creators prepare to launch their campaign, many are tempted to jump right into the glamorous stuff of a campaign: filming a cool video, taking alluring product photos, sending excited tweets and posts to friends, family, and followers. We don’t want to dull that enthusiasm, but that’s not where you should start work on your funding campaign. After all the hard work you’ve done on your project, you need to start the next phase with some important marketing decisions nailed down. That’s why we recommend that the first thing you work on is the main body of your campaign copy. That’s not because it’s the most important piece of collateral for your campaign, it definitely isn’t. It’s because the *process* of writing it will lay the groundwork for the ideas and approach you’ll use in all of the other marketing and presentation of your project; it will help you ensure your message is consistent and well-crafted. It will help ensure the fun stuff is good stuff.
+As creators prepare to launch their campaign, many are tempted to jump right into the glamorous stuff of a campaign: filming a cool video, taking alluring product photos, sending excited tweets and posts to friends, family, and followers. We don’t want to dull that enthusiasm, but that’s not where you should start work on your funding campaign. After all the hard work you’ve done on your project, you need to start the next phase with some important marketing decisions nailed down. That’s why we recommend that the first thing you think about is your campaign copy. That’s not because it’s the most important piece of collateral for your campaign, it definitely isn’t. It’s because the *process* of writing it will lay the groundwork for the ideas and approach you’ll use in all of the other marketing and presentation of your project; it will help you ensure your message is consistent and well-crafted. It will help ensure the fun stuff is good stuff.
 
 That does *not* mean you have to complete all of your campaign text and get it ready to publish before anything else gets done. It *does* mean that the issues you think about and the questions you answer as you start the job of writing will help and inform the rest of your campaign. Starting with campaign text lays the conceptual foundation on which you’ll build the rest of your campaign. It’s more about laying the groundwork than completing a deliverable.
 
@@ -17,7 +17,7 @@ Okay, that’s all pretty windy and abstract. How do you put this advice into co
 * Why do your users need your project? What does it help them do? Or, what can’t they do without it? Paint a picture of what your project can do to improve or enable something your users love. What, specifically, are your users doing when they need your project?
 * Try some one sentence summaries of your story. E.g., “Phyllis the engineering student couldn’t afford a bench full of test gear, until Labrador came to her rescue” or “Lovers of Portland history and smoked brisket can rejoice now that Felton & Mary’s BBQ sauce has been recreated and is available locally.”
 * Think about how you decided to undertake the project. What drove you to start it and keep working? What will change or improve for you when the project is a reality?
-* Which monsters does your product slay? What are users finally free to do when they’re gone?
+* Which monsters does your product slay? What are users finally able to do when they’re freed?
 
 
 Obviously, none of these questions will have single or “right” answers. They’re intended to get you thinking about the elements of the proposition you’re about to put in front of your backers. If you spend some time just brainstorming answers to these questions, you’ll start to form the outline of your marketing strategy. If your campaign collateral is full of happy, busy users doing stuff that’s crazy cool, rather than a bunch of dry spec tables and less-than-compelling descriptions of your PCB, you’ll know you’ve gotten it right.
@@ -50,6 +50,7 @@ Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we 
 
 **Before Your Campaign Starts**
 
+* [When and How Should I Submit my Project to Crowd Supply?](/guide/when-to-submit)
 * [Basic Campaign Page Content](/guide/campaign-content-basics)
 * Define Your Community, Write Your User
 * [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
