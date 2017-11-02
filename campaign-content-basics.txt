@@ -13,7 +13,7 @@ The first step in building your campaign is identifying the crowd who'll support
 
 ### Project Title and Teaser
 
-The title and teaser are particularly important since they will be used in your project "tile", the box that summarizes your project in a variety of contexts on Crowd Supply's website. It will appear on your pre-launch page, on our "browse" page, and almost anywhere else your project is listed. It's the content that will be seen by the greatest number of people, so it's important to get it right.
+The title and teaser are particularly important since they will be used in your project "tile", the box that summarizes your project in a variety of contexts on Crowd Supply's website. It will appear on your pre-launch page, on our "browse" page, and almost anywhere else your project is listed. It's the content that will be seen by the greatest number of people, so it's important to get it right. Make sure your title and teaser reflect the work you did in defining your community, that's your target for this content.
 
 The title of your campaign should be a very succinct description of your product. Titles may be up to 36 characters, and should take one of the following forms:
 
@@ -21,7 +21,7 @@ The title of your campaign should be a very succinct description of your product
 * ``product name: what it is`` e.g., "Superoven 5000: A Smart Phone-Controlled Baking Oven"
 * ``product name: action phrase`` e.g., "Superoven 5000: Bake Cakes with Your Phone"
 
-Normal title capitalization should be used:
+Heading-style capitalization should be used *only* for the title:
 
 1. Capitalize the first and the last word.
 2. Capitalize nouns, pronouns, adjectives, verbs, adverbs, and subordinate conjunctions.
@@ -30,9 +30,9 @@ Normal title capitalization should be used:
 
 Periods, question marks, and exclamation points should not be used in titles.
 
-The campaign teaser should be a brief (up to 255 characters), accurate description of the product being offered. Question marks and exclamation points should be used only sparingly, if at all, in the teaser. Avoid hyperbole and clearly describe your product's basic characteristics, functions, and purpose.
+The campaign teaser should be a brief (up to 255 characters), accurate description of the product being offered. Question marks and exclamation points should be used only sparingly, if at all, in the teaser. Avoid hyperbole and clearly describe your product's basic characteristics, functions, and purpose. The teaser should use normal sentence capitalization and preferably should be one or more complete sentences.
 
-The title and teaser together should speak to a general audience. They should explain what the product is in plain language free of specialized jargon.
+The title and teaser together should speak to a general audience. They should explain what the product is and what it does in plain language free of specialized, technical jargon.
 
 Prices should generally *not* be included in the campaign title or the teaser, unless that is a defining point of the campaign (e.g., the price for that particular item is truly groundbreaking). Availability schedule should also not be included.
 
@@ -114,7 +114,7 @@ This schedule is used to determine how many units of your product are available 
 
 A “creator” refers to the people (or person) who are building a project. Sometimes this is an incorporated company, sometimes it’s a group of colleagues, and sometimes it’s just a single person. As a creator on Crowd Supply, you’ll have your own creator page, like this one:
 
-<https://www.crowdsupply.com/wild-outdoor-apparel>
+<https://www.crowdsupply.com/lime-micro>
 
 We'lll need the following to set up your creator page:
 
@@ -171,6 +171,7 @@ Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we 
 
 **Before Your Campaign Starts**
 
+* [When and How Should I Submit my Project to Crowd Supply?](/guide/when-to-submit)
 * Basic Campaign Page Content
 * [Define Your Community, Write Your User](/guide/on-campaign-text)
 * [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
