@@ -16,17 +16,21 @@ Here’s what you can expect from Crowd Supply when your campaign successfully f
 * **Transition to Pre-order:** Crowd Supply will make some changes to your campaign page. Specifically, your crowdfunding page will get archived under the “history” tab on the campaign page. It will be replaced with the “available” page (which, of course, can be modified as you see fit). Note that the URL to your page will NOT change. We will also change the pricing to the pre-order rates you chose.
 
 * **Fulfillment Preparation:** If you are using Crowd Supply for your fulfillment services, as soon as we receive product from you, we will start shipping orders to your backers first, and then to anyone who placed a pre-order. There are a few details you’ll need to take care of to get shipping started:
-Determine the correct [“Harmonized System” codes](https://en.wikipedia.org/wiki/Harmonized_System) for the product (your manufacturer may be able to help with this)
-Finalize packaging
-Coordinate product delivery to us, including payment for any tariffs, customs, etc.
+
+     - Determine the correct [“Harmonized System” codes](https://en.wikipedia.org/wiki/Harmonized_System) for the product (your manufacturer may be able to help with this)
+     - Finalize packaging
+     - Coordinate product delivery to us, including payment for any tariffs, customs, etc.
 
 #### Stuff You Need To Do
 
 You’ve hit a big milestone, but there’s still lots for you to do:
 
-* You should have been working all along to ensure your manufacturing plan is on track and that product will available when you’ve said it would be. In any case, you’ll want to issue an update with projected ship dates very soon so that backers know when to expect their stuff.
+* **Manufacturing plan/progress update** You should have been working all along to ensure your manufacturing plan is on track and that product will available when you’ve said it would be. In any case, you’ll want to issue an update with projected ship dates very soon so that backers know when to expect their stuff.
 
-* If you’re not using Crowd Supply for shipping and fulfillment, there’s a long list of things you need to do to get the right stuff to the right person, too long to enumerate here. The main takeaway is to not underestimate the time and effort it will take to fulfill the orders and keep up to date your record keeping and invoicing.
+* **Prepare for shipping and fulfillment** If you’re not using Crowd Supply for shipping and fulfillment, there’s a long list of things you need to do to get the right stuff to the right person, too long to enumerate here. The main takeaway is to not underestimate the time and effort it will take to fulfill the orders and keep up to date your record keeping and invoicing.
+
+* **Prepare for transition to sales** We will change your campaign page to reflect the new status (Pre-orders or Direct Sales). If you will be selling your project on Crowd Supply after the campaign, make sure you have determined your wholesale price and quantities for manufacture. Let us know when we can expect to receive stock from you.
+
 
 ###After Your Campaign Fails to Fund or Is Suspended
 
@@ -37,6 +41,7 @@ So the end date of your campaign came, or you decided to suspend it, and you did
 Here’s what you can expect from Crowd Supply:
 
 * Backers will not be charged anything.
+* You will not be charged anything.
 * While we do not release individual backer data, you will be able to update your backers to let them know your status.
 * The status of your campaign page will be changed to “Funding Unsuccessful” or “Suspended”. The page will continue to be accessible at the same URL, but will no longer be listed in our “browse” section. In the interests of transparency, we will not take down any campaign pages. Doing so would be re-writing history and would send the message that we don't stand by our work.
 * We’ll send you a post-campaign exit survey to help understand what happened and help us improve.
@@ -74,6 +79,7 @@ Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we 
 
 **Before Your Campaign Starts**
 
+* [When and How Should I Submit my Project to Crowd Supply?](/guide/when-to-submit)
 * [Basic Campaign Page Content](/guide/campaign-content-basics)
 * [Define Your Community, Write Your User](/guide/on-campaign-text)
 * [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
