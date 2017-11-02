@@ -1,0 +1,145 @@
+##*The Crowd Supply Guide:* Writing Style Guide
+------------------
+
+## Style standards
+
+Over time, different publishing communities have established and documented standards for the style and grammar they prefer in their publications. These standards are called [style guides](http://en.wikipedia.org/wiki/Style_guide). Generally, Crowd Supply’s documentation uses the standards described in the [Associated Press's (AP) style guide](http://en.wikipedia.org/wiki/AP_Stylebook). If you’re already familiar with another style (MLA, Chicago, etc.), it’s fine to use that. The most important thing is that you choose and adhere to some style standard.
+
+If a question about syntactical, grammatical, or lexical practice comes up, refer to the AP guide first. If you don’t have a copy of (or online subscription to) the AP guide, you can almost always find an answer to a specific question by searching the web directly (e.g., search on “AP style capitalization"). If you can’t find an answer, please ask [Fred](mailto:frederick.lifton@crowdsupply.com) or anyone else at Crowd Supply and we'll help you figure it out.
+
+That said, please don't get too hung up on using correct style. We'd rather have you submit good information that doesn't conform to a guide than no information at all. We are always happy to help you with the prose, and promise not to judge or use a red pen!
+
+## Prose Style
+
+In general, try to write simple, straightforward prose. We prefer short, single-clause sentences and brief three-to-five sentence paragraphs. Try to choose vocabulary that is straightforward and precise. Avoid creating new terms, using obscure terms or, in particular, using a lot of jargon. For example, instead of leveraging "leverage," use "use".
+
+Generally, you can assume that your audience is college-educated and has a good grasp of English (the vast majority of Crowd Supply backers are from North America). Nonetheless, try to avoid an excess of colloquial, technical, or metaphorical language. 
+
+In all cases, we prefer clear, concise communication over stilted, formal language. Don't feel like you have to write copy that "sounds like” technical writing or marketing. Use your own natural voice and let your personality shine through.
+
+## A Few Specifics
+
+### Terminal commas
+Unlike AP, in lists, we prefer the Oxford or terminal comma. E.g., "Superoven is available in small, medium, and jumbo."
+
+### Contractions
+
+Contractions are perfectly acceptable, as long as your prose doesn't get too slangy and informal. Make certain you are using apostrophes correctly. If you need to get something across firmly, consider NOT using a contraction.
+
+### Capitalization
+
+#### In general
+Only proper nouns should be capitalized in body text. In general, strive to be as strict as possible in applying this rule. Avoid using capitals for emphasis or to denote “specialness”. It makes your prose read like a bad fantasy novel.
+
+#### Starting Sentences
+Avoid starting sentences with words that aren't capitalized, like code samples or brand/personal names that officially aren't capitalized.
+
+#### In Headings and Titles
+
+Generally, we adhere to AP style for titles.
+
+* Capitalize the first and the last word.
+* Capitalize all nouns, pronouns, adjectives, verbs, adverbs, and subordinate conjunctions.
+* Lowercase articles (a, an, the), coordinating conjunctions, and prepositions.
+* Lowercase the "to" in an infinitive ("I Want to Play Guitar).
+
+### Hyperlinks
+
+Make sure links use descriptive text rather than "click here." For example, "Visit [Crowd Supply's home page](https://www.crowdsupply.com/)" is preferable to "[Click here](https://www.crowdsupply.com/) to visit Crowd Supply's home page".
+
+### Dashes
+
+Dashes (the en dash "–" and the em dash "—") are used to separate parenthetical material. They should be used sparingly since readers will de-emphasize material contained in dashes.
+
+Usage Example: Our video board – based on an entirely open design – provides connections for every known standard.
+
+Use dashes cautiously and consider whether commas or parentheses would work just as well. We always emphasize short, succinct sentences.
+
+### Pronouns
+
+It’s okay to use first and second person pronouns, especially if it lets you avoid a passive construction. Specifically, always use “we” to refer to yourself (the creator) and/or Crowd Supply. Use “you” to refer to the backer or user. For example, “We built the Gear Gate for you, the avid cyclist.” 
+
+That said, in general, try to write simple, imperative sentences that avoid the use of pronouns altogether. Say “Snap Shades come in 12 colors” rather than “You can choose from 12 different colors of Snap Shades.”
+
+As much as possible, avoid using gendered pronouns (“he,” “she”, etc.). Either recast the sentence so the pronoun is not needed or, less preferably, use “they” instead. If you absolutely can’t get around using a gendered pronoun, pick one and stick to it. Which one you choose is up to you. One common convention is to use the pronoun of the author’s gender, but if you prefer to always default to “he” or “she”, that’s fine too. Just be consistent. 
+
+### Abbreviations and acronyms
+
+Exempli gratia (e.g.) and id est ( i.e.): these should always have periods and are always followed by a comma when used in a sentence. "E.g." means "for example", while "i.e." means "in other words."
+
+Acronyms are pluralized by simply adding “s”, e.g., PCs, OSs. No apostrophe should be used unless the acronym is used as a possessive.
+
+On first use on a given page, the complete term should be used, with the abbreviation or acronym in parentheses. E.g., "Free Software Foundation (FSF)." The exception is common, non-specialized acronyms like AKA or ASAP. Note that acronyms other than "i.e." and "e.g." are capitalized.
+
+Other than “e.g.” and “i.e.” (as discussed above), acronyms do not take periods, PC not P.C.
+
+### Lists
+
+When writing lists, keep the following in mind:
+
+* Use bullets when the items being listed are independent of each other and the order of presentation is not important.
+
+* Use numbers for steps that have to happen in order or if you have mentioned the list in introductory text. For example, if you wrote “There are three available packages for the Librem laptop:..." you would number each package in the subsequent list.
+
+In all lists, if an item is a complete sentence, it should end with a period. Otherwise, we prefer no terminal punctuation for list items. Each item in a list should start with a capital.
+
+### Numbers & Measures
+
+Write out numbers in body text and titles from one to ten. From 11 on, use numerals. It's okay to use numerals in specification lists, tables, etc.
+
+Separate quantities and units with a single space. For example, write 1.2 GHz instead of 1.2GHz. The exception is when using the single quotation mark and double quotation mark to indicate feet and inches, respectively (e.g., 6' 9" to mean six feet and nine inches).
+
+----------------------------------------------
+
+Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we can help.
+
+----------------------------------------------
+
+### The Crowd Supply Guide: Table of Contents
+
+#### For Everyone
+
+* [Proclamation of User Rights](/about#user-rights)
+
+#### For Backers
+
+* [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [How are Backers Protected?](/guide/backer-protection)
+
+#### For Creators
+
+**Intro & Overview**
+
+* [Quick Start](/guide/quick-start)
+* [Campaign Content Checklist](/guide/campaign-checklist)
+
+**Before Your Campaign Starts**
+
+* [When and How Should I Submit my Project to Crowd Supply?](/guide/when-to-submit)
+* [Basic Campaign Page Content](/guide/campaign-content-basics)
+* [Define Your Community, Write Your User](/guide/on-campaign-text)
+* [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
+* [Set Funding Goals](/guide/funding-goals)
+* [Marketing and PR](/guide/marketing-and-pr)
+* [Campaign Photography: Creating Stills and Videos](/guide/project-video)
+* [Working with Manufacturers](/guide/working-with-manufacturers)
+* Writing Style Guide
+
+**During Your Campaign**
+
+* [Communicate With Your Backers](/guide/backer-communications)
+* [Engage Social Media](/guide/social-media-intro)
+* [Order Policies & Procedures](/guide/policies-and-procedures)
+
+**After Your Campaign Concludes**
+
+* [Your Campaign Has Ended, Now What?](/guide/when-your-campaign-ends)
+* [Fulfillment & Logistics](/guide/fulfillment-and-logistics)
+* [How Are Funds Received?](/guide/how-are-funds-received)
+* [When are Funds Received?](/guide/when-are-funds-received)
+
+----------------------------------------------
+
+Please send us your feedback on this Guide: [guide-feedback@crowdsupply.com](mailto:guide-feedback@crowdsupply.com).
+
+----------------------------------------------
