@@ -18,6 +18,7 @@ Welcome to *The Crowd Supply Guide*. Choose a topic below or, if you're a creato
 
 **Before Your Campaign Starts**
 
+* [When and How Should I Submit my Project to Crowd Supply?](/guide/when-to-submit)
 * [Basic Campaign Page Content](/guide/campaign-content-basics)
 * [Define Your Community, Write Your User](/guide/on-campaign-text)
 * [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
