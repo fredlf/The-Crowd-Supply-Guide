@@ -1,4 +1,4 @@
-##*The Creator Guide:* Marketing and PR
+##*The Crowd Supply Guide:* Marketing and PR
 -----------------
 
 Behind every successful crowdfunding campaign there's more than just a great product, there is also a solid marketing strategy.  This page outlines some fundamentals for promoting your product and campaign.
@@ -101,6 +101,7 @@ Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we 
 
 **Before Your Campaign Starts**
 
+* [When and How Should I Submit my Project to Crowd Supply?](/guide/when-to-submit)
 * [Basic Campaign Page Content](/guide/campaign-content-basics)
 * [Define Your Community, Write Your User](/guide/on-campaign-text)
 * [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
