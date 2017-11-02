@@ -1,0 +1,88 @@
+##*The Crowd Supply Guide:* When and How Should I Submit My Project to Crowd Supply?
+---------------
+
+So you've got a great idea for a miraculous new Marveltron, and you think crowdfunding is the best way to bring it to fruition. When should you submit your project to Crowd Supply and what is the process for approval? 
+
+To answer the first question first, before you submit your project, you need more than a good idea. Generally speaking, you should have a prototype of some sort. A rough prototype or, in some cases, a rendering are usually enough to get a [pre-launch page](https://www.crowdsupply.com/prelaunch) set up, but we usually (though not categorically) require an [EVT (Engineering Verification/Validation Test) prototype](https://blog.hwtrek.com/the-hardware-guide/evt-dvt-pvt/) before the crowdfunding campaign itself launches. This is because part of launching a campaign is determining funding goals, and determining funding goals depends on knowing how much it costs to build your project. You can’t really know that until you have a functioning prototype. There may be some projects where this doesn’t hold true, but in our experience launching before there’s a prototype is not recommended. 
+
+(We should also note that at Crowd Supply, a pre-launch page has the same URL as the final campaign page, so creators can share a link often and early knowing that it will stay live through every phase of a campaign, and afterwards.)
+
+{steam-engine}
+
+Once your Marveltron prototype is humming along (or blinking or beeping or whatever it is supposed to do), and you feel ready to launch your campaign or put up a pre-launch page, head over to the [Launch page](https://www.crowdsupply.com/launch) on our website and click the “Tell Us About Your Project” button. You can also click the “Submit a Project” link in the footer of any page on our site. This will take you to a form where we’ll ask you some questions about your project. 
+
+Please fill out the form as completely and honestly as possible. If there’s something you haven’t yet done or don’t know, indicate that rather than leaving an entry blank. A Crowd Supply campaign manager will use your responses to determine any follow-up questions and, once they have all the info they need, they will make a determination of whether or not your project is a good fit with us. Generally speaking, a good Crowd Supply project is a physical product that exemplifies at least some of our principles as described in the [Proclamation of User Rights](https://www.crowdsupply.com/guide/proclamation-of-user-rights). It can take us a couple of weeks to evaluate your application, so please be patient.
+
+If we determine your project is a good fit and is sufficiently far along, the next step will be to get a signed Statement of Work (SoW) in place. The SoW puts into writing the rights and responsibilities of Crowd Supply and the creator. It will formally describe, in plain English, the support and services that Crowd Supply will provide and what we, in turn, will need from you. Typically, this takes a little bit of back and forth as you figure out which of [our services](https://www.crowdsupply.com/launch) you will require. Once the agreement is in place and signed, we’re ready to get to work building your campaign with you. 
+
+We usually run campaigns using a central git repository for both campaign documents and collateral like videos and graphics. In some cases, a creator may prefer to use a collaborative document platform, which we also offer as an option. For now, for the majority of creators, this means working on GitHub or Google Docs, although we are glad to use other platforms such as private repos, Savannah, Dropbox, etc. We welcome feedback on this topic as we investigate better ways to host and collaborate on content.
+
+Once a signed SoW is in place, we will create a repo pre-populated with “blank” documents and a series of Milestones made up of various Issues. The Milestones are the major requirements for launching and running a campaign, the Issues are the individual tasks needed to complete the Milestone. For each Milestone, we try to provide lots of help and advice via links to this Guide, explanations, and examples. The Milestones include:
+
+* Milestone 1: Messaging
+* Milestone 2: Outreach
+* Milestone 3: Team Info
+* Milestone 4: Pre-launch
+* Milestone 5: Financials
+* Milestone 6: Campaign Page Copy
+* Milestone 7: Video and Other Essential Collateral
+* Milestone 8: Updates
+
+Hopefully, this article has helped you better understand when and how to start the process of launching your campaign with Crowd Supply, but if you have any other questions, please don’t hesitate to [get in touch](https://www.crowdsupply.com/contact).
+
+
+
+----------------------------------------------
+
+Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we can help.
+
+----------------------------------------------
+
+### The Crowd Supply Guide: Table of Contents
+
+#### For Everyone
+
+* [Proclamation of User Rights](/about#user-rights)
+
+#### For Backers
+
+* [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [How are Backers Protected?](/guide/backer-protection)
+
+#### For Creators
+
+**Intro & Overview**
+
+* [Quick Start](/guide/quick-start)
+* [Campaign Content Checklist](/guide/campaign-checklist)
+
+**Before Your Campaign Starts**
+
+* When and How Should I Submit my Project to Crowd Supply?
+* [Basic Campaign Page Content](/guide/campaign-content-basics)
+* [Define Your Community, Write Your User](/guide/on-campaign-text)
+* [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
+* [Set Funding Goals](/guide/funding-goals)
+* [Marketing and PR](/guide/marketing-and-pr)
+* [Campaign Photography: Creating Stills and Videos](/guide/project-video)
+* [Working with Manufacturers](/guide/working-with-manufacturers)
+* [Writing Style Guide](/guide/writing-style-guide)
+
+**During Your Campaign**
+
+* [Communicate With Your Backers](/guide/backer-communications)
+* [Engage Social Media](/guide/social-media-intro)
+* [Order Policies & Procedures](/guide/policies-and-procedures)
+
+**After Your Campaign Concludes**
+
+* [Your Campaign Has Ended, Now What?](/guide/when-your-campaign-ends)
+* [Fulfillment & Logistics](/guide/fulfillment-and-logistics)
+* [How Are Funds Received?](/guide/how-are-funds-received)
+* [When are Funds Received?](/guide/when-are-funds-received)
+
+----------------------------------------------
+
+Please send us your feedback on this Guide: [guide-feedback@crowdsupply.com](mailto:guide-feedback@crowdsupply.com).
+
+----------------------------------------------
