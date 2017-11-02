@@ -9,7 +9,11 @@ Start with this Overview, which will walk you through the steps of bringing your
 
 ### Before Your Campaign Starts
 
-1. **Get in touch.** It's never too early to talk to us about your project and get feedback on your plans. We have years of engineering and product experience, which we'll use to help you avoid early and costly mistakes. Start by filling out our [project submission form](/project-submission). We accept projects from creators anywhere in the world.
+1. **Get in touch.** It's never too early to talk to us about your project and get feedback on your plans. We have years of engineering and product experience, which we'll use to help you avoid early and costly mistakes. Start by filling out our [project submission form](/project-submission). We accept projects from creators anywhere in the world. We'll work with you to figure out if your project is ready to launch and a good fit with Crowd Supply. If it is, we'll make a Statement of Work agreement to formally define what we'll be doing together on the campaign.
+
+1. **Set up collaboration tools.** Once your project is accepted, we'll set up a way to work collaboratively. Usually this means setting up a shared git repo or collaborative document resource. Right now, we do this mainly in GitHub, where we set up a repo that has a set of Milestones and accompanying Issues for each Milestone. The Milestones correspond to the rest of the steps in the campaign process, as below.
+
+1. **Define your community.** Figure out who your backers (users) are and what they will be able to do with your project. This work help to define the message of the rest of your campaign materials, so spend some time focusing on this at the outset. That will help your campaign succeed in the long run. We have some tips and exercises to help you out in the [Write Your User](/guide/on-campaign-text) page.
 
 1. **Create a "Coming Soon" page.** This is a [pre-launch page](/guide/campaign-content-basics) on Crowd Supply's site used to build excitement and collect email sign-ups for the upcoming campaign. The pre-launch page will turn into your campaign page when your campaign launches. Check out some the [projects launching soon at Crowd Supply](/prelaunch).
 
@@ -79,6 +83,7 @@ Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we 
 
 **Before Your Campaign Starts**
 
+* [When and How Should I Submit my Project to Crowd Supply?](/guide/when-to-submit)
 * [Basic Campaign Page Content](/guide/campaign-content-basics)
 * [Define Your Community, Write Your User](/guide/on-campaign-text)
 * [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
