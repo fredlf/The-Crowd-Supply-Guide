@@ -23,6 +23,14 @@ For those projects that don't pass this vetting process, we try to give them as 
 
 Once a project is accepted to launch on Crowd Supply, we take an active role in helping it succeed. From strategy and public relations, to fulfillment and media production, we offer a [range of optional services](/launch#pricing) to help a project wherever it's needed most. In addition, to each new project, we bring the experience of having launched hundreds of other products. Of course, projects can also tap into the existing community of Crowd Supply creators - for example, our [Provider Directory](/providers) is a great resource for finding suppliers and manufacturers with a track record at Crowd Supply.
 
+### Your Account
+
+When you make a pledge, sign up for campaign updates or the Newsletter, or back a campaign on Crowd Supply, a user account is automatically created for you, based on the email you entered when you ordered. (Accounts are also created automatically for creators when they sign on to run a campaign.) You access your account from the user menu at upper right. 
+
+In addition to the usual profile information, which you can edit as needed, you will also see a list of your prior and current orders/pledges. You can see details for each transaction by clicking the “Order Details” link. If the order has not shipped, you can change details like quantities, shipping address, etc. 
+
+If you want to permanently delete your account, please [contact us](https://www.crowdsupply.com/contact). We will delete your account and all of its associated history.
+
 ### Terms and Policies: Return, Refund, Cancellation 
 
 Details of our official return and cancellation policies are below. At a high level, our terms and policies can be summarized as:
@@ -32,19 +40,22 @@ Details of our official return and cancellation policies are below. At a high le
 * If a creator cannot or will not deliver the product they promised, they are required to provide a refund.
 * We are strong advocates of digital [privacy](/privacy-policy) and [security](/security).
 
-#### Project Premium Return and Cancellation Policy  
-
-At the discretion of the product creator, premiums committed to backers as a result of a funding campaign may be exchanged or refunded. The product creator is responsible for providing a good faith estimate of the product description, risks, and timeline for their projects. Due to the uncertainties inherent in creating products during the early stage of development, changes to features, performance, and/or appearance may occur between when a concept is originally presented and when it is produced. Reasons for this may include technology limitations, or other factors outside of the developer's control. Timelines may slip, and in rare instances a project that was funded may not be completed and delivered. Backers should only pledge to a creator’s project if they are comfortable accepting this uncertainty. If a backer is dissatisfied with a premium they should contact the project creator to share their concerns.
+**Important** Note that return and refund policies differ depending on whether the item being returned was purchased as a regular or pre-order, or if it was received from making a pledge to a crowdfunding campaign. Items from a campaign pledge are refunded/replaced at the discretion of the creator. Regular or pre-orders are refunded by Crowd Supply. If you don't understand the difference, please take a look at the Guide page on [supporting campaigns](https://www.crowdsupply.com/guide/supporting-projects).
 
 #### Backer Pledge Cancellation Policy  
+
 * Backers are only charged if a Project meets its funding goal.
 * If a project does not meet the stated funding goal, the project is cancelled and backers are not charged for their pledge commitments.
 * Backers who pledge to fund a project that is successful in meeting its stated funding goal will be charged soon after the project meets the target funding goal (which may come before the campaign end date). These funds are transferred to the project creator in order to finalize development and begin production.
 * Pledges made after a project has met the funding goal are immediately charged. No cancellations can be made at this time. 
 
-#### Crowd Supply Store Returns Policy    
+#### Campaign Pledge Product Return Policy  
+
+At the discretion of the product creator, items committed to backers as a result of a crowdfunding campaign may, or may not, be exchanged or refunded. The product creator is responsible for providing a good faith estimate of the product description, risks, and timeline for their projects. However, backers need to know that due to the uncertainties inherent in creating products during the early stage of development, changes to features, performance, and/or appearance may occur between when a project is originally presented and when it is produced. Reasons for this may include technology limitations, supply issues, or other factors outside of the developer's control. Timelines may slip, and in rare instances a project that was funded may not be completed and delivered. Backers should only pledge to a creator’s project if they are comfortable accepting this risk. If a backer is dissatisfied with a product they should contact the project creator to express their concerns.
+
+#### Crowd Supply Store Product Return Policy (in-stock and pre-orders)    
 For all items pre-ordered from the Crowd Supply Store, customers can cancel their order for a refund (less transaction fees, if applicable) at any time prior to product shipment. 
-For all items purchased from the Crowd Supply Store, customers are provided a 30-day satisfaction guarantee. Should any item fail to meet your expectations, simple return the item in new condition and we will gladly exchange it, refund your purchase price with a store credit, or credit your credit card. If you're not sure if a product is going to work for you, we ask that you please keep all packing materials for shipping, should you decide to return it.
+For all items purchased from stock in the Crowd Supply Store, customers are provided a 30-day satisfaction guarantee. Should any item fail to meet your expectations, simply return the item in new condition and we will gladly exchange it, refund your purchase price with a store credit, or credit your credit card. If you're not sure a product is going to work for you, we ask you please keep all packing materials for shipping, should you decide to return it.
 No return authorization number is necessary. Just ship your items back to us with a copy of your invoice or a printout of your confirmation email and a note indicating how you'd like us to handle the return (refund or exchange). Please include your daytime phone number in case we have any questions.
 
 Please send all returns to our fulfillment center:
@@ -80,6 +91,7 @@ Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we 
 
 **Before Your Campaign Starts**
 
+* [When and How Should I Submit my Project to Crowd Supply?](/guide/when-to-submit)
 * [Basic Campaign Page Content](/guide/campaign-content-basics)
 * [Define Your Community, Write Your User](/guide/on-campaign-text)
 * [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
