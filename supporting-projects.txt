@@ -22,13 +22,17 @@ A crowd-funding pledge or pre-order is more than just a purchase, it's a commitm
 
 The easiest way to pay is with a credit card (Visa, MC, Amex, Discover). Under certain circumstances, we can also accept other forms of payment such as Bitcoin, PayPal, personal checks, cash, Automated Clearing House (ACH) transfers, and wire transfers (domestic and international). These alternate forms of payment may incur additional service charges and fees, and they may require pre-payment. To use them, you’ll need to contact us at <orders@crowdsupply.com>.
 
+All campaigns are in US dollars (USD). We cannot accept foreign currencies and backers are responsible for any costs incurred in changing exchange rates.
+
 ### When will my order ship?
 
 Every product lists an estimated ship date on the project's campaign page. You will receive an email confirmation as soon as the item has been shipped. **The best way to find out the latest status of manufacturing and shipping is to check the "Updates" section of a project's campaign page.** This is preferable to emailing busy creators and their team.
 
 In-stock items will ship within one business day from Crowd Supply's warehouse. For crowdfunding and pre-order items, the ship date is the creator's best estimate given manufacturing lead times and how many people have already ordered the product ahead of you.
 
-Crowd Supply works with product creators to make crowdfunding and pre-order shipping estimates as accurate as possible, but there can sometimes be variation in the actual ship dates. Keep in mind these are products coming to market for the first time and there may be unforeseen delays. Check the "Updates" section for the latest information.
+Crowd Supply works with product creators to make crowdfunding and pre-order shipping estimates as accurate as possible, but there can sometimes be slippage in actual ship dates. Keep in mind these are products coming to market for the first time and there may be unforeseen delays. There can be parts shortages, design issues to correct, manufacturer delays, and shipping issues. 
+
+For this reason, we strongly recommend that you do not support a campaign if you have a hard deadline for receiving the project you're supporting. Shipping dates are only estimates. Again, if you're wondering how a project is doing regarding shipping dates, check its "Updates" section for the latest information.
 
 ### Where can orders be shipped?
 
@@ -41,6 +45,10 @@ Packages shipped outside the United States can be tracked using the link include
 ### How will my order be shipped?
 
 **The vast majority of Crowd Supply orders are shipped via the US Postal Service (USPS).** Some larger/heavier items may go out United Parcel Service (UPS). If you require shipping by a different carrier, please let us know.
+
+### If I order multiple items, can I combine and reduce shipping fees?
+
+The short answer is no. Our shipping fees are based on the actual costs of shipping (size, weight, insurance fees, etc.), so those costs increase if the number of items increases.
 
 ### How can I change my shipping or billing address?
 
@@ -56,7 +64,11 @@ If your billing address changes during the course of the campaign, as long as yo
 ### Shipping Confirmation & Status
 You will receive an email confirmation once the item has been shipped with the details of the order and a tracking number for the package. Use this to track the package with the carrier's website (usually, www.usps.com). You can also check the status of your orders by logging into your Crowd Supply account and going to “My Account.” Accounts are created automatically when you make a pledge or place an order.
 
-####Tracking International Orders
+### How Do I Get an Invoice for My Order?
+
+We will include a printed invoice along with your shipped order. You can also view and/or print an order any time by going to [your account page](https://www.crowdsupply.com/account) and selecting the order. Lastly, your order confirmation email can also serve as an invoice. If you need something beyond this, please contact us.
+
+### Tracking International Orders
 
 In some cases, tracking information for international orders will not update once the package leaves the US. It’s not uncommon to see a package “stall” for a period of several weeks while it is in fact still in transit to its destination. Similarly, international packages may get held up by customs and/or local post offices and the tracking info will simply say “delivered". You may be able to get better tracking info on local carriers from a third-party tracking service such as [Aftership.com](https://www.aftership.com/courier) or [www.trackitonline.ru](http://www.trackitonline.ru/).
 
@@ -64,7 +76,7 @@ If a long period of time has passed without a tracking update, we strongly sugge
 
 ### Can I cancel my order?
 
-You can cancel a crowdfunding item any time before a campaign reaches its funding goal. After a campaign ends, cancellations are left up to the discretion of the creator. In practice, creators usually allow cancellations. In-stock orders and pre-orders can be cancelled if they haven’t shipped yet. Please email us at <orders@crowdsupply.com> and be sure to include your order number.
+You can cancel a crowdfunding item any time before a campaign reaches its funding goal. After a campaign ends, cancellations are left up to the discretion of the creator. In practice, creators usually allow cancellations. In-stock orders and pre-orders can be cancelled if they haven’t shipped yet. Please email us at <orders@crowdsupply.com> and be sure to include your order number. Please refer to this [Guide Page on Backer Protection](https://www.crowdsupply.com/guide/backer-protection#terms-and-policies) for the details of our return/refund policies.
 
 ### What happens if a campaign does not meet its goal?
 
@@ -105,6 +117,7 @@ Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we 
 
 **Before Your Campaign Starts**
 
+* [When and How Should I Submit my Project to Crowd Supply?](/guide/when-to-submit)
 * [Basic Campaign Page Content](/guide/campaign-content-basics)
 * [Define Your Community, Write Your User](/guide/on-campaign-text)
 * [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
