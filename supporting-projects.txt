@@ -62,6 +62,7 @@ If your billing address changes during the course of the campaign, as long as yo
 
 
 ### Shipping Confirmation & Status
+
 You will receive an email confirmation once the item has been shipped with the details of the order and a tracking number for the package. Use this to track the package with the carrier's website (usually, www.usps.com). You can also check the status of your orders by logging into your Crowd Supply account and going to “My Account.” Accounts are created automatically when you make a pledge or place an order.
 
 ### How Do I Get an Invoice for My Order?
@@ -74,6 +75,12 @@ In some cases, tracking information for international orders will not update onc
 
 If a long period of time has passed without a tracking update, we strongly suggest you contact your local post office or customs agency *before* contacting us. Typically, we cannot do much or get access to additional info once a package leaves the US. Note that shipping to some regions can take as long as six weeks.
 
+### What if my package is lost?
+
+So you've already received a tracking number, but it has stalled or stopped moving. Unfortunately your package may be lost. If you are shipping internationally, please contact your local post office first, as they might be able to locate your package.
+
+If your package appears lost, we can file an insurance claim to replace your items. USPS requires that a package must be in transit for at least 30 days before a claim can be filed. In addition, **all claims for lost packages must be submitted within 90 days of the shipment date.** Outside of this agreed claim period, we have no course of action with the courier. If you think your package may be lost, please [contact us](mailto:orders@crowdsupply.com?subject=Lost Package) with your order ID and tracking number.
+
 ### Can I cancel my order?
 
 You can cancel a crowdfunding item any time before a campaign reaches its funding goal. After a campaign ends, cancellations are left up to the discretion of the creator. In practice, creators usually allow cancellations. In-stock orders and pre-orders can be cancelled if they haven’t shipped yet. Please email us at <orders@crowdsupply.com> and be sure to include your order number. Please refer to this [Guide Page on Backer Protection](https://www.crowdsupply.com/guide/backer-protection#terms-and-policies) for the details of our return/refund policies.
@@ -81,6 +88,7 @@ You can cancel a crowdfunding item any time before a campaign reaches its fundin
 ### What happens if a campaign does not meet its goal?
 
 Your card will not be charged in any way. If you used an alternate form of payment, you will receive a refund. We will contact you to arrange the details of that refund.
+
 
 ###Unclaimed & Returned Packages
 
