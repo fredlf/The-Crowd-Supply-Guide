@@ -25,11 +25,23 @@ Once a project is accepted to launch on Crowd Supply, we take an active role in 
 
 ### Your Account
 
-When you make a pledge, sign up for campaign updates or the Newsletter, or back a campaign on Crowd Supply, a user account is automatically created for you, based on the email you entered when you ordered. (Accounts are also created automatically for creators when they sign on to run a campaign.) You access your account from the user menu at upper right. 
+When you make a pledge, sign up for campaign updates or the Newsletter, or back a campaign on Crowd Supply, a [user account](https://www.crowdsupply.com/account) is automatically created for you, based on the email you entered when you ordered. (Accounts are also created automatically for creators when they sign on to run a campaign.) You access your account from the user menu at upper right. 
 
-In addition to the usual profile information, which you can edit as needed, you will also see a list of your prior and current orders/pledges. You can see details for each transaction by clicking the “Order Details” link. If the order has not shipped, you can change details like quantities, shipping address, etc. 
+Your account page lets you view and edit personal and order information. You can:
 
-If you want to permanently delete your account, please [contact us](https://www.crowdsupply.com/contact). We will delete your account and all of its associated history.
+* Modify your profile info, such as your name, email, location, etc.
+* Manage your email subscriptions to campaign updates and our newsletter
+* Add an avatar to your account
+* Delete your account
+* Creators can view details about the projects they've launched
+
+Your account page also shows your order history and status. Click the "View Order Details" link, to:
+
+* View the shipping address, billing address, quantities, and other details about your order
+* Update the shipping address (if the order has not yet shipped)
+* Use your browser's print-to-pdf function to generate an invoice.
+
+If you want to permanently delete your account or you have other needs, please [contact us](https://www.crowdsupply.com/contact). We will delete your account and all of its associated history or do our best to provide you with the info or paperwork that you require.
 
 ### Terms and Policies: Return, Refund, Cancellation 
 
