@@ -1,41 +1,44 @@
 ##*The Crowd Supply Guide:* Marketing and PR
 -----------------
 
-Behind every successful crowdfunding campaign there's more than just a great product, there is also a solid marketing strategy.  This page outlines some fundamentals for promoting your product and campaign.
+Behind every successful crowdfunding campaign there's more than just a great product, there's also a solid marketing strategy.  But probably the most frequent lament we hear from our creators is “I’m no good at marketing.” We have two responses: (1) we can help and (2) you’re better than you think.
 
-If your goals (and budget) warrant it, consider working with a PR or marketing professional to maximize exposure, so you can be free to focus on developing your product and running a business. Talk to us if you’d like to explore options for marketing support.
+This page will give you some help by outlining some fundamentals for promoting your product and campaign. We’ll also provide help and advice throughout your campaign in the form of coaching, editorial support, social media promotion, and general support and guidance.
 
-Getting an early start on marketing and PR tasks is very important. Some things, like community building, will take time and effort to build up. Other things, like press releases, need to be ready on campaign launch day.
+Very, very few projects warrant hiring an outside PR & Marketing firm, but if you think it’s needed, we can help you explore your options. 
 
-For a great case study on how marketing and PR can propel a campaign to success, take a look at this [blog post about the Portland Press](http://blog.crowdsupply.com/2014/06/09/raise-40-more-funding-with-zero-extra-effort/), a product that raised 137% of its goal and went on to sell in major national retailers like Starbucks.
+Getting an early start on marketing and PR tasks is very important. Some things, like community building, will take time and effort to build up. Other things, like your campaign page and early updates, need to be ready on campaign launch day. That’s why one of the first milestones in preparing for launch is [defining your community by understanding your users](https://www.crowdsupply.com/guide/on-campaign-text). That’s why we ask you a series of user-focused questions at the very start of your campaign. Please take some time to carefully think about them, and the suggestions provided here, as your responses will work to shape the entirety of your campaign.
+
+(For a great case study on how marketing and PR can propel a campaign to success, take a look at this [blog post about the Portland Press](http://blog.crowdsupply.com/2014/06/09/raise-40-more-funding-with-zero-extra-effort/), a product that raised 137% of its goal and went on to sell in major national retailers like Starbucks.)
 
 #### Document your Marketing Strategy
 
-Write down your strategy for marketing your product. It can be as creative as you are, but most successful strategies combine the personal network, social media, community development, and press and blogger outreach.
+Write down your strategy for marketing your product. It can be as creative as you are, but most successful strategies combine your personal network, social media, community development, and press and blogger outreach.
 
-Outline your marketing strategy well in advance of the campaign's launch - at least 1-2 months prior. If you plan to use a PR service or agency, they’ll also need need plenty of time ahead of the launch to prepare the right message and strategy. This should not be an afterthought - it is just as important as the caliber of your creation.
+Outline your marketing strategy well in advance of the campaign's launch - at least one-two months prior. This should not be an afterthought - it is just as important as the caliber of your creation.
 
-####Tell a story that excites
+####Tell a story
 
-You know your product is awesome - help the world see your vision. Product messaging and an effective storyline are critical to a great marketing campaign. Your product is a hero on a quest to solve a problem. This is an important exercise that is the foundation all of your marketing materials, your product campaign page, website copy, and so on.
+You know your product is awesome, because you created it to fill a need or achieve a goal - help the world see your vision. Product messaging and an effective storyline are critical to a great marketing campaign. Think of your product as a hero on a quest to solve your user’s problem. This is an important exercise that will become the foundation all of your marketing materials, your product campaign page, website copy, and so on.
 
-* Explain the current landscape, the reason you made this amazing invention. What market forces are at play that create a need for it? Why are you making it? Why now?
+The [“Write Your User” page](https://www.crowdsupply.com/guide/on-campaign-text) and this [blog post](https://blog.crowdsupply.com/2017/11/14/storytelling-for-engineers/) look more closely at this topic, but here are a few more questions to help you think about your project’s story.
+
+* Explain the current landscape, the reason you made this amazing invention. What forces are at play that create a need for it? Why are you making it? Why now?
 * What does your product do? What problem does it solve? Write out a high level overview and list its features.
 * Who is it for, and how would they use it to solve problems they face?
 * What other competitive products already exist on the market, and how is yours different/better?
 * Why is your solution better than the alternatives?
 * Sum up your product story in 100 words or less, 50 words or less, and in a concise sentence. This is your tagline.
 
-####Build a Press Kit
+####Consider a Press Kit
 
-For most Crowd Supply projects, a press kit is overkill; your campaign page will do the job. However, if you think your project is going to get a lot of press attention and you are working with a professional PR person, a press kit can make it as easier for journalists, bloggers, and reviewers to write about your product and get the images they need for an article. Having a standardized kit will make it easier for you to respond to requests for info and collateral. For  more information and advice, see our [press kit how-to page](/guide/press-kits).
- 
+For almost all Crowd Supply projects, a press kit is overkill; your campaign page will do the job. However, *if* you think your project is going to get a lot of press attention and you are working with a professional PR person, a press kit can make it as easier for journalists, bloggers, and reviewers to write about your product and get the images they need for an article. Having a standardized kit will make it easier for you to respond to requests for info and collateral. For  more information and advice, see our [press kit how-to page](/guide/press-kits).
 
 ####Activate Your Personal Network
 
-* Prepare a contacts list. Who in your personal or professional network would care about or want this product? This includes colleagues in your product's space, people you’ve met at networking events, past customers for related products, friends and family, and so on.
+* Make a project contacts list. Who in your personal or professional network would care about or want this product? This includes colleagues in your project's area, people you’ve met at networking events, past customers for related products, friends and family, and so on.
 * Email this group a link to your pre-launch page, along with a personal request for them to share it with others who might be interested or supportive.
-* Don’t be pushy or spammy in online groups - be a part of their conversation and add value.
+* Don’t be pushy or spammy in online groups - be a contributing part of their conversation and culture and add value.
 
 ####Develop Your Community
 
@@ -48,26 +51,26 @@ Community development should start well before your campaign launches, and will 
 * Ask for input on your product. Some of your best feedback might come from the very people who want to buy your product.
 * Ask backers to share your product with others.
 * Give prototypes to influential target users of your product so they can test it and give feedback or create early case studies for you.
-* Don't forget, your manufacturers and providers are part of your community. Tip: tag your manufacturers (e.g., @atmel, @macrofab, etc.) in your posts to increase their visibility and yours.
+* Don't forget, your manufacturers and providers are part of your community. Tip: tag your manufacturers (e.g., @atmel, @macrofab, etc.) in your posts to increase both their visibility and yours.
 
 Don’t be spammy, pushy, or exploit the community for your own sake. Ask for feedback, contribute back to the community, enroll them in your vision. Be tactful and friendly.
 
 ####Social Media
 
-Social media is an integral part of your product marketing plan. Write down how often you will share social media messages, and draft a variety of posts to have at ready in your arsenal. Mix it up - what various messages will target backers be interested in?
+Like it or not, social media is an integral part of your product marketing plan. Write down how often you will share social media messages, and draft a variety of posts to have at ready in your arsenal. Mix it up - what various messages will target backers be interested in?
 
 * Post several times a week to each of the major social media networks: Facebook, Twitter, LinkedIn, Pinterest, and Instagram (or some combination thereof).
-* Don’t be spammy. Variety is important, and being conversational (and human) is critical.
-* Answer questions and reply to other people’s social media posts.
-* Join groups on sites like LinkedIn, Reddit, Facebook, Hackaday, and other forums that are relevant to your product. Actively engage in discussions by answering questions and leaving comments.
-* Use a social media tool like Buffer or HootSuite to manage and schedule what you're sharing on social media.
-* Hashtags are used to search tweets and social shares. The right hashtags can help your community find your tweets more easily. Want to know which hashtags are trending? Sites like [HashTag Scout](https://www.hashtagscout.com/) or [Hashtagify](http://hashtagify.me/) can help you find out what's trending or popular in your product's vertical market.
+* Don’t be spammy. Variety is important, and being conversational (and human) is critical. Be yourself.
+* Answer questions quickly and reply to other people’s social media posts.
+* Join groups on sites like LinkedIn, Reddit, Facebook, Hackaday, and other forums that are relevant to your product. To help you find an audience, we maintain a [Community Directory](https://www.crowdsupply.com/community-directory). Actively engage in discussions by answering questions and leaving comments. Be helpful!
+* A social media tool like Buffer or HootSuite can help you manage and schedule what you're sharing on social media.
+* The right hashtags can help your community find your tweets more easily. Want to know which hashtags are trending? Sites like [HashTag Scout](https://www.hashtagscout.com/) or [Hashtagify](http://hashtagify.me/) can help you find out what's trending or popular in your product's vertical market.
 * Use lots of images - they help increase engagement and show off your creation. GIFs and other short videos are great, too.
 * Learn more with our guide to [engaging social media](/guide/social-media-intro).
 
 ####Public Relations and Media Outreach
 
-Pitch the press to let the world know about your product. It may be worth carving out a budget to hire a PR professional or enlist Crowd Supply’s team to help you make your pitch. If that’s out of the question, here are some best practices for pitching the media:
+Pitch the press to let the world know about your product. Here are some best practices for pitching the media:
 
 * Build a targeted list of writers and bloggers likely to be interested in your campaign. Do some research to see who’s been writing about similar projects to yours.
 * Email them a concise, personal email about your product and why you think they’d be interested. Include a link to the press kit and the press release.
@@ -128,4 +131,5 @@ Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we 
 
 Please send us your feedback on this Guide: [guide-feedback@crowdsupply.com](mailto:guide-feedback@crowdsupply.com).
 
-----------------------------------------------
+---------------------------------------------- 
+
