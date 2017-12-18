@@ -43,7 +43,7 @@ Your account page also shows your order history and status. Click the "View Orde
 
 If you want to permanently delete your account or you have other needs, please [contact us](https://www.crowdsupply.com/contact). We will delete your account and all of its associated history or do our best to provide you with the info or paperwork that you require.
 
-### Terms and Policies: Return, Refund, Cancellation 
+### Terms and Policies: Return, Refund, Cancellation, Lost Packages 
 
 Details of our official return and cancellation policies are below. At a high level, our terms and policies can be summarized as:
 
@@ -75,6 +75,12 @@ Please send all returns to our fulfillment center:
 Crowd Supply, Inc.  
 340 SE 6th Ave  
 Portland, OR 97214
+
+#### Lost Packages
+
+If you've already received a tracking number, but it has stalled or stopped moving, it's possible that your package may be lost. However, if you are shipping internationally, please contact your local post office first, as they might be able to locate your package. It's not uncommon for international packages to appear stalled when they are still in transit or are waiting in local customs. We typically advise giving international shipments two full weeks in transit.
+
+If your package appears lost, we can file an insurance claim to replace your items. USPS requires that a package must be in transit for at least 30 days before a claim can be filed. In addition, **all claims for lost packages must be submitted within 90 days of the shipment date**. Outside of this claim period, we have no course of action with the courier. If you think your package may be lost, please [contact us](mailto:orders@crowdsupply.com?subject=Lost Package) with your order ID and tracking number.
 
 
 ----------------------------------------------
