@@ -87,7 +87,7 @@ In all lists, if an item is a complete sentence, it should end with a period. Ot
 
 Write out numbers in body text and titles from one to ten. From 11 on, use numerals. It's okay to use numerals in specification lists, tables, etc.
 
-Separate quantities and units with a single space. For example, write 1.2 GHz instead of 1.2GHz. The exception is when using the single quotation mark and double quotation mark to indicate feet and inches, respectively (e.g., 6' 9" to mean six feet and nine inches).
+Separate quantities and units with a single space. For example, write 1.2 GHz instead of 1.2GHz. An exception is when using the single quotation mark and double quotation mark to indicate feet and inches, respectively (e.g., 6' 9" to mean six feet and nine inches). Another exception to this is when "k" is used to denote thousands, as in "8k" for "8,000". We prefer not using "k" for thousands (in agreement with AP styleguides), but if it must be used there should be no space between the number and the "k".
 
 ----------------------------------------------
 
