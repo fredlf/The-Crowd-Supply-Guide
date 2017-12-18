@@ -44,6 +44,8 @@ A pre-launch page will be used to start driving traffic to your campaign before 
 
 The URL created for this page will be the same URL for the lifetime of the project. This means no dead links from old landing pages or emails and strong SEO. Your URL will be generated using your creator/brand name and project name, as in `https://www.crowdsupply.com/acme/superoven`. 
 
+For examples and inspiration, take a look at the [current prelaunch pages](https://www.crowdsupply.com/prelaunch) on Crowd Supply.
+
 #### Setting up a pre-launch page
 
 You'll work with your project manager to get your pre-launch "teaser" page set up. They will need:
