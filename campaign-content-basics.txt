@@ -51,8 +51,9 @@ For examples and inspiration, take a look at the [current prelaunch pages](https
 You'll work with your project manager to get your pre-launch "teaser" page set up. They will need:
 
 * Creator/Brand name
-* Project title and very brief description/teaser (120 chars. max). Often, this includes a short bullet list of features/functions.
-* Product Image
+* Project title and very brief teaser (120 chars. max)
+* Concise description of the project highlighting the main features that make it interesting. Often, this includes a short bullet list of features/functions.
+* Product image
 * Optional video or additional images
 * Optional project updates (i.e., a brief update on progress towards launch)
 
