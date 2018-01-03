@@ -1,0 +1,126 @@
+##*The Crowd Supply Guide:* Create a Press Kit
+--------------
+
+Having a good press kit can really help PR for a crowdfunding campaign. Here are some simple steps to follow to create one that’s at least “not bad”.
+
+##Goals
+The basic purpose of your press kit is to make it as easy as possible for the journalist, editor, or blogger you are contacting to cover your campaign. Don’t make them chase you for media assets like video or photos.
+Make it clear what your product is and how it should be described to their readers.
+
+## Extra Touches
+
+The icing on the cake of the press kit is something exciting that will get them more personally energized about the product and make them more likely to promote it (or cover it at all).
+
+A relatively inexpensive thing to do is build your press kit on custom-branded USB flash drives that match your design aesthetic. This also gives you the option to include higher-quality media or alternate files that you wouldn’t normally use.
+
+##Ingredients
+
+Your press kit should include all of the following:
+
+###Text Overview
+
+Write a one to three paragraph description of the product, clearly outlining:
+
+* What it is.
+* What alternative products it replaces.
+* Why it will be compelling to the publication’s readers.
+
+
+###Linking
+
+If the campaign page won't be live when you release the press kit, provide the URL where the live campaign page will be published along with the time and date it will be available.
+
+###Video
+
+Embed the campaign video onto the page. Ideally, this should be done with Vimeo or a similar service. If you would like the video to be syndicated by other publications, make it possible for the video to be shared and re-embedded directly. Consider providing the embed code to do so.
+
+If you have multiple videos, include each of them, along with a text label explaining the video. For more information, see our [video creation guide](https://www.crowdsupply.com/making-video).
+
+###Imagery
+
+Provide exhaustive coverage of every aspect of your product. If you have multiple colors or SKUs, make sure they are all pictured. Include accessories and packaging if available. Also, it’s worth including a few semi-redundant images–e.g. slightly different angles of the same item–so that different outlets can use different images and put out a slightly less identical placement.
+
+For formats, you should provide, at a minimum:
+
+* Full-resolution JPEGs
+* Full-resolution TIFFs, either uncompressed or losslessly compressed. Consider using 16-bit TIFFs if destined for print.
+* Do not provide raw files: media organizations love uncompressed things, but nobody wants to have to actually edit your photos.
+
+Crowd Supply can help you create high quality, high resolution images once you’ve been approved to launch.
+
+###Press Release or One-Pager
+
+Since you've worked through a messaging framework, this should be straightforward. Unlike your campaign page copy, which will have much more detail, a good press release or one-pager explains only the most important aspects of your product, in terminology that most people would understand.
+
+Elements of a great press release or one-pager include:
+
+* A clear headline that explains what the "news" is.
+* A subhead that quickly explains the benefit of the product and who it's for.
+* A short paragraph about the product and the problem it solves.
+* An overview of key features and highlights.
+* The funding goal and per unit cost before and after the campaign
+* The URL for the live campaign page, and the time/ date that the page will be live.
+
+###Packaging It Up
+
+At a minimum, all of this content should be made available on a single, static web page. Make this page as simple as possible, do not add extra eye candy or ‘fluff’. Make it easy for the editor to pick and choose the assets they would like and download or embed them directly.
+
+You need to build a fast, responsive and good-looking page that is viewable by editors, journalists, etc. on whatever device they have handy, including mobile devices (since journalists travel a lot). Tools like [Bootstrap](http://getbootstrap.com/getting-started/) can help you with this, provided you have the technical skills. Alternatively, Crowd Supply's marketing services can help you this.
+
+If you would like to send a physical press kit, you can include all of these files on a USB flash drive, with folders organizing the different types of content, and a README text file containing your text summary and an inventory/description of the other files.
+
+----------------------------------------------
+
+Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we can help.
+
+----------------------------------------------
+
+### The Crowd Supply Guide: Table of Contents
+
+#### For Everyone
+
+* [Proclamation of User Rights](/about#user-rights)
+
+#### For Backers
+
+* [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [Ordering, Paying, Shipping: All the Details](/guide/ordering-paying-shipping-details)
+* [How are Backers Protected?](/guide/backer-protection)
+
+#### For Creators
+
+**Intro & Overview**
+
+* [Quick Start](/guide/quick-start)
+* [Campaign Content Checklist](/guide/campaign-checklist)
+
+**Before Your Campaign Starts**
+
+* [When and How Should I Submit my Project to Crowd Supply?](/guide/when-to-submit)
+* [Basic Campaign Page Content](/guide/campaign-content-basics)
+* [Define Your Community, Write Your User](/guide/on-campaign-text)
+* [How to Get Traffic to Your Campaign](/guide/how-to-get-campaign-traffic)
+* [Set Funding Goals](/guide/funding-goals)
+* [Marketing and PR](/guide/marketing-and-pr)
+* [Campaign Photography: Creating Stills and Videos](/guide/project-video)
+* [Working with Manufacturers](/guide/working-with-manufacturers)
+* [Writing Style Guide](/guide/writing-style-guide)
+
+**During Your Campaign**
+
+* [Communicate With Your Backers](/guide/backer-communications)
+* [Engage Social Media](/guide/social-media-intro)
+* [Order Policies & Procedures](/guide/policies-and-procedures)
+
+**After Your Campaign Concludes**
+
+* [Your Campaign Has Ended, Now What?](/guide/when-your-campaign-ends)
+* [Fulfillment & Logistics](/guide/fulfillment-and-logistics)
+* [How Are Funds Received?](/guide/how-are-funds-received)
+* [When are Funds Received?](/guide/when-are-funds-received)
+
+----------------------------------------------
+
+Please send us your feedback on this Guide: [guide-feedback@crowdsupply.com](mailto:guide-feedback@crowdsupply.com).
+
+----------------------------------------------
