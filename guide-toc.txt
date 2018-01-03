@@ -7,6 +7,7 @@ Welcome to *The Crowd Supply Guide*. Choose a topic below or, if you're a creato
 #### For Backers
 
 * [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [Ordering, Paying, Shipping: All the Details](/guide/ordering-paying-shipping-details)
 * [How are Backers Protected?](/guide/backer-protection)
 
 #### For Creators
