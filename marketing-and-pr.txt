@@ -5,7 +5,7 @@ Behind every successful crowdfunding campaign there's more than just a great pro
 
 This page will give you some help by outlining some fundamentals for promoting your product and campaign. We’ll also provide help and advice throughout your campaign in the form of coaching, editorial support, social media promotion, and general support and guidance.
 
-Very, very few projects warrant hiring an outside PR & Marketing firm, but if you think it’s needed, we can help you explore your options. 
+Very, very few Crowd Supply projects warrant hiring an outside PR & Marketing firm, but if you think it’s needed, we can help you explore your options. 
 
 Getting an early start on marketing and PR tasks is very important. Some things, like community building, will take time and effort to build up. Other things, like your campaign page and early updates, need to be ready on campaign launch day. That’s why one of the first milestones in preparing for launch is [defining your community by understanding your users](https://www.crowdsupply.com/guide/on-campaign-text). That’s why we ask you a series of user-focused questions at the very start of your campaign. Please take some time to carefully think about them, and the suggestions provided here, as your responses will work to shape the entirety of your campaign.
 
@@ -93,6 +93,7 @@ Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we 
 #### For Backers
 
 * [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [Ordering, Paying, Shipping: All the Details](/guide/ordering-paying-shipping-details)
 * [How are Backers Protected?](/guide/backer-protection)
 
 #### For Creators
@@ -132,4 +133,3 @@ Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we 
 Please send us your feedback on this Guide: [guide-feedback@crowdsupply.com](mailto:guide-feedback@crowdsupply.com).
 
 ---------------------------------------------- 
-
