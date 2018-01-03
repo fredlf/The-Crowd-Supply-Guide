@@ -3,7 +3,7 @@
 ##*The Crowd Supply Guide:* Working with Manufacturers
 ---------------
 
-Before your campaign gets underway,  you’ll need to identify and form partnerships with your manufacturers. That’s why it’s essential you have at least a prototype squared away *before* you start looking for manufacturing partners and launch your campaign. Picking the right manufacturer(s) is critically important; it can make or break your launch. You’ll need to do careful due diligence and make sure you get these decisions right. 
+Before your campaign gets underway,  you’ll need to identify and form partnerships with your manufacturers. That’s why it’s essential you have at least a prototype squared away *before* you start looking for manufacturing partners and launch your campaign. Picking the right manufacturer(s) is critically important; it can make or break your launch. You’ll need to do careful due diligence and make sure you get the decision right. 
 
 That said, working with manufacturers is a broad and complex topic that is highly dependent on the kind of product you are manufacturing. Covering the whole subject is well beyond the scope of this Guide. We’ll provide an overview and some important considerations and tips here, but you’ll need to do more research to understand specifics related to your particular product.
 
@@ -74,6 +74,7 @@ Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we 
 #### For Backers
 
 * [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [Ordering, Paying, Shipping: All the Details](/guide/ordering-paying-shipping-details)
 * [How are Backers Protected?](/guide/backer-protection)
 
 #### For Creators
