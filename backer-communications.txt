@@ -73,6 +73,7 @@ Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we 
 **Intro & Overview**
 
 * [Quick Start](/guide/quick-start)
+* [Ordering, Paying, Shipping: All the Details](/guide/ordering-paying-shipping-details)
 * [Campaign Content Checklist](/guide/campaign-checklist)
 
 **Before Your Campaign Starts**
