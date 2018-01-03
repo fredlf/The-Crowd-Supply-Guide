@@ -1,57 +1,62 @@
-##*The Crowd Supply Guide:* Your Campaign Has Ended, Now What?
----------------
+##*The Crowd Supply Guide:* Order Fulfillment Policies and Procedures
+---------------------
 
-There are three ways a campaign can end: funded, unfunded, or suspended. Below, we describe what happens and what you need to do for each scenario.
+### Large Order Policies
 
-###After a Campaign Funds Successfully 
+Placing large orders or purchase orders:
 
-####Stuff Crowd Supply Will Do
+* Large orders and purchase orders can be accommodated, but the payment must be submitted before the order can be added to the campaign page.
 
-Here’s what you can expect from Crowd Supply when your campaign successfully funds.
+* All pledge levels have to be public, so no hidden pledge levels for bulk orders. If you're afraid of what consumers will think if they see wholesale pricing, you should change your pricing.
 
-* **Order Information:** Crowd Supply will provide you with a spreadsheet containing all the info from your backers (what they ordered, their shipping info, email address, etc.). 
+### Abandoned Orders Policies
 
-* **Transfer of Funds:** Crowd Supply will send you the funds collected from your backers. Note that if your campaign has reached its funding goal before the campaign’s end-date you have the option of collecting your funds then or waiting until the official end-date. While it can be advantageous to access the capital early (e.g., you can start manufacturing earlier), there are also downsides such as incurring multiple banking transaction fees or more complex tax liabilities and accounting. For details on fees and pricing, see the [“How are Funds Received?” page](https://www.crowdsupply.com/guide/how-are-funds-received). 
+An "abandoned order" is one where the payment was rejected and never updated. For example, the backer used a credit card that expired before the campaign concluded but hasn't responded to requests for an update. In the event of abandoned orders, we'll take the following steps:
 
-* **Transition to Pre-order:** Crowd Supply will make some changes to your campaign page. Specifically, your crowdfunding page will get archived under the “history” tab on the campaign page. It will be replaced with the “available” page (which, of course, can be modified as you see fit). Note that the URL to your page will NOT change. We will also change the pricing to the pre-order rates you chose.
+1. Send a "payment abandoned" email giving the backer one week to update their payment.
+2. Send secondary abandoned payment email giving the backer 24 hours to update their payment or their order will be cancelled.
 
-* **Fulfillment Preparation:** If you are using Crowd Supply for your fulfillment services, as soon as we receive product from you, we will start shipping orders to your backers first, and then to anyone who placed a pre-order. There are a few details you’ll need to take care of to get shipping started:
+After this time period, failed payments will be marked as abandoned and not count toward the final crowdfunding total. If a campaign meets its goal with pledged amounts, but not enough of those pledges are collected to actually meet the goal, the campaign fails and we refund all money, or find other pledges to fill in the gap.
 
-     - Determine the correct [“Harmonized System” codes](https://en.wikipedia.org/wiki/Harmonized_System) for the product (your manufacturer may be able to help with this)
-     - Finalize packaging
-     - Coordinate product delivery to us, including payment for any tariffs, customs, etc.
+### Project Premium Return and Cancellation Policy
 
-#### Stuff You Need To Do
+Pledges committed to backers as a result of a funding campaign cannot be returned, exchanged, or refunded via Crowd Supply. The product creator is responsible for providing a good faith estimate of the product description, risks, and timeline for their projects. 
 
-You’ve hit a big milestone, but there’s still lots for you to do:
+Due to the uncertainties inherent in creating new products, during the early stage of development changes may occur to features, performance, and/or appearance. Possible reasons for this include technology limitations, issues with availability of parts or materials, or other factors outside of your control. Timelines may slip, and in rare instances a project that was funded may not be completed and delivered. Backers should only pledge to a creator’s project if they are comfortable accepting this uncertainty. If a backer is dissatisfied with a premium they should contact the project creator to share their concerns.
 
-* **Manufacturing plan/progress update** You should have been working all along to ensure your manufacturing plan is on track and that product will available when you’ve said it would be. In any case, you’ll want to issue an update with projected ship dates very soon so that backers know when to expect their stuff.
+### Backer Pledge Cancellation Policy
 
-* **Prepare for shipping and fulfillment** If you’re not using Crowd Supply for shipping and fulfillment, there’s a long list of things you need to do to get the right stuff to the right person, too long to enumerate here. The main takeaway is to not underestimate the time and effort it will take to fulfill the orders and keep up to date your record keeping and invoicing.
+* Backers are only charged if a Project meets its funding goal.
+* If a project does not meet the funding goal, the project is cancelled and backers are not charged.
+* Backers will only be charged once the project meets the target funding goal. These funds are transferred to the project creator in order to finalize development and begin production. No cancellations or credits will be provided by Crowd Supply for these pledges.
+* Pledges made after a project has met the funding goal are immediately charged.
+* Refund/return policies are up to the creator. 
 
-* **Prepare for transition to sales** We will change your campaign page to reflect the new status (Pre-orders or Direct Sales). If you will be selling your project on Crowd Supply after the campaign, make sure you have determined your wholesale price and quantities for manufacture. Let us know when we can expect to receive stock from you.
+### Crowd Supply Store Returns Policy
 
+For all items pre-ordered from Crowd Supply after the campaign concludes, customers can cancel their order for store credit at any time prior to product shipment. Refunds are at Crowd Supply's discretion.
 
-###After Your Campaign Fails to Fund or Is Suspended
+For all items purchased from the Crowd Supply Store, customers receive a 30-day satisfaction guarantee:
 
-So the end date of your campaign came, or you decided to suspend it, and you did not meet your funding goal. Don’t be downcast, you’ve actually accomplished a lot. You can take what you learned about your project and your supporters and use the information to modify your project, your outreach, and/or your price points and manufacturing plans. You probably also received some invaluable feedback from backers and you started to build a community who can help you launch another project.
+*Should any item fail to meet your expectations, simply return the item in new condition and we will gladly exchange it, refund your purchase price with a store credit, or credit your credit card. If you're not sure if a product is going to work for you, we ask that you please keep all packing materials for shipping should you decide to return it.*
 
-####Stuff Crowd Supply Will Do
+*No return authorization number is necessary. Just ship your items back to us with a copy of your invoice or a printout of your confirmation email, and a note indicating how you'd like us to handle the return (cash, credit, or exchange). Please include your daytime phone number in case we have any questions.*
 
-Here’s what you can expect from Crowd Supply:
+### Taxes
 
-* Backers will not be charged anything.
-* You will not be charged anything.
-* While we do not release individual backer data, you will be able to update your backers to let them know your status.
-* The status of your campaign page will be changed to “Funding Unsuccessful” or “Suspended”. The page will continue to be accessible at the same URL, but will no longer be listed in our “browse” section. In the interests of transparency, we will not take down any campaign pages. Doing so would be re-writing history and would send the message that we don't stand by our work.
-* We’ll send you a post-campaign exit survey to help understand what happened and help us improve.
+#### Sales Taxes
+We don't collect domestic taxes or VAT because we are located in Oregon, which does not have a sales tax. Backers will be responsible for any import taxes applicable to their region.
 
-####Stuff You Need To Do
+#### Income Taxes
 
-There are just a few loose strings you’ll need to tie up.
+Funds received from orders are considered income and will probably fall under the category of [1099 income](https://support.stripe.com/questions/will-i-receive-a-1099-k-and-what-do-i-do-with-it). You should consult with a tax professional to help determine your liability and responsibility.
 
-* You will need to publish an update to thank backers, let them know the campaign did not successfully fund, and tell them your plans for the future, as you see fit.
-* If you sent us any prototypes or other materials for creating videos, images, etc., be sure  to arrange for their return.
+### The Fine Print
+
+* [Shipping policy represented to customers placing an order on Crowd Supply](https://www.crowdsupply.com/shipping).
+* [Crowd Supply Warehouse and Fulfillment Services Agreement](/fulfillment-agreement).
+* The legal [Terms of Use](https://www.crowdsupply.com/terms-of-use) backers and creators agree to by using Crowd Supply.
+
 
 ----------------------------------------------
 
@@ -68,6 +73,7 @@ Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we 
 #### For Backers
 
 * [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [Ordering, Paying, Shipping: All the Details](/guide/ordering-paying-shipping-details)
 * [How are Backers Protected?](/guide/backer-protection)
 
 #### For Creators
@@ -93,11 +99,11 @@ Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we 
 
 * [Communicate With Your Backers](/guide/backer-communications)
 * [Engage Social Media](/guide/social-media-intro)
-* [Order Policies & Procedures](/guide/policies-and-procedures)
+* Order Policies & Procedures
 
 **After Your Campaign Concludes**
 
-* Your Campaign Has Ended, Now What?)
+* [Your Campaign Has Ended, Now What?](/guide/when-your-campaign-ends)
 * [Fulfillment & Logistics](/guide/fulfillment-and-logistics)
 * [How Are Funds Received?](/guide/how-are-funds-received)
 * [When are Funds Received?](/guide/when-are-funds-received)
@@ -107,5 +113,4 @@ Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we 
 Please send us your feedback on this Guide: [guide-feedback@crowdsupply.com](mailto:guide-feedback@crowdsupply.com).
 
 ----------------------------------------------
-
 
