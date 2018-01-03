@@ -9,7 +9,7 @@ We also understand that many people, and maybe engineers in particular, find tha
 
 {blog-editing2}
 
-We think the best way to approach this task is to think of it as “writing the story” of your project. In this story, your project is a hero on your user’s quest to solve a problem or attain a goal. It’s not a story about you or your company (although obviously those are important characters). It’s the story of how your product is a hero to your backers. Think of it this way: every transaction, every act of consumption has desire (a.k.a., demand) at its heart. Desire implies a subject (the one who desires) and an object (the thing they desire). You need to write a story whose subject is your user. Your user is on a quest to solve their problem with the object of their desire, your project.
+We think the best way to approach this task is to think of it as “writing the story” of your project. In this story, your project is a hero on your user’s quest to solve a problem or attain a goal. It’s not a story about you or your company (although obviously those are important characters). It’s the story of how your product is a hero to your backers. Think of it this way: every transaction, every act of consumption has desire (a.k.a., demand) at its heart. Desire implies a subject (the one who desires) and an object (the thing they desire). You need to write a story whose subject is your user. Your user is on a quest to solve their problem with the object of their desire, your project. (We cover this topic in more detail in this recent [blog post about storytelling and marketing](https://blog.crowdsupply.com/2017/11/14/storytelling-for-engineers/).)
 
 Okay, that’s all pretty windy and abstract. How do you put this advice into concrete practice and actually start writing your campaign copy? Your own process will vary, but thinking about the answers to some of these questions should help you get started:
 
@@ -39,6 +39,7 @@ Contact us at [info@crowdsupply.com](mailto:info@crowdsupply.com) to see how we 
 #### For Backers
 
 * [Supporting Crowd Supply Projects](/guide/supporting-projects)
+* [Ordering, Paying, Shipping: All the Details](/guide/ordering-paying-shipping-details)
 * [How are Backers Protected?](/guide/backer-protection)
 
 #### For Creators
