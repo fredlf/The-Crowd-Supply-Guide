@@ -28,7 +28,7 @@ toward the final crowdfunding total. If a campaign meets its goal with pledged
 amounts, but not enough of those pledges are collected to actually meet the goal, 
 the campaign fails and we refund all money, or find other pledges to fill in the gap.
 
-### Project Premium Return and Cancellation Policy
+### Project Order Return and Cancellation Policy
 
 Pledges committed to backers as a result of a funding campaign cannot be returned, 
 exchanged, or refunded via Crowd Supply. The product creator is responsible for 
@@ -65,14 +65,13 @@ Refunds are at Crowd Supply's discretion.
 For all items purchased from the Crowd Supply Store, customers receive a 30-day 
 satisfaction guarantee:
 
-*Should any item fail to meet your expectations, simply return the item in new 
+*Should any stock item fail to meet your expectations, simply return the item in new 
 condition and we will gladly exchange it, refund your purchase price with a store 
 credit, or credit your credit card. If you're not sure if a product is going to 
 work for you, we ask that you please keep all packing materials for shipping 
 should you decide to return it.*
 
-*No return authorization number is necessary. Just ship your items back to us 
-with a copy of your invoice or a printout of your confirmation email, and a 
+*To initiate a return, please complete this [RMA request form](https://www.crowdsupply.com/contact/return-product). Then, ship your items back to us with your RMA # included in the box, a copy of your invoice or a printout of your confirmation email, and a 
 note indicating how you'd like us to handle the return (cash, credit, or exchange). 
 Please include your daytime phone number in case we have any questions.*
 
