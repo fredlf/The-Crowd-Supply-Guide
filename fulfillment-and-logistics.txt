@@ -7,9 +7,13 @@
 
 {shippingship}
 
-Once your campaign has met its funding goal and your product has been made, you will need to deal with the logistics of delivering it to backers. This can be one of the more challenging parts of a crowdfunding campaign - especially if your customers are all over the world.
+Once your campaign has met its funding goal and your product has been made, you will need to deal 
+with the logistics of delivering it to backers. This can be one of the more challenging parts of a 
+crowdfunding campaign - especially if your customers are all over the world.
 
-Fortunately, Crowd Supply has extensive experience in shipping logistics. Whether you're shipping locally or internationally, we're here to help. Our comprehensive fulfillment services will help you deliver your product on time and on budget.
+Fortunately, Crowd Supply has extensive experience in shipping logistics. Whether you're shipping 
+locally or internationally, we're here to help. Our comprehensive fulfillment services will help you 
+deliver your product on time and on budget.
 
 Crowd Supply will:
 
@@ -25,23 +29,38 @@ Crowd Supply will:
 * Send a shipping confirmation/tracking info email to your backers when their order ships
 * Accept and process returns if needed
 
-If you are not using Crowd Supply for order fulfillment, you MUST do each of these things yourself. Note that, unlike other crowdfunding platforms, Crowd Supply collects all shipping information up front. This reduces delays and miscommunication from post-campaign surveys to collect shipping info.
+If you are not using Crowd Supply for order fulfillment, you MUST do each of these things yourself. 
+Note that, unlike other crowdfunding platforms, Crowd Supply collects all shipping information up front. 
+This reduces delays and miscommunication from post-campaign surveys to collect shipping info.
 
 ###International Shipping
 
-Ship to international destinations by specifying a flat international shipping surcharge for the product. This surcharge is paid by the backer and will be added to any order shipped outside the United States.
+Ship to international destinations by specifying a flat international shipping surcharge for the product. 
+This surcharge is paid by the backer and will be added to any order shipped outside the United States.
 
 ###Fulfillment Fees
 
 These are the fees that you'll pay to Crowd Supply for fulfilling orders on your behalf. This is how they break down:
 
-*Freight* is the cost paid to the carrier (usually either UPS or USPS) for transporting and delivering the package. This cost is passed directly to you without markup. For example, in the case of shipping via UPS, you will benefit from the volume discount rate Crowd Supply has negotiated with UPS. In the case of USPS, the exact cost of postage is passed on to you. Freight costs may also include a charge for insurance, depending on the value of the goods being shipped. 
+*Freight* is the cost paid to the carrier (usually either UPS or USPS) for transporting and delivering the 
+package. This cost is passed directly to you without markup. For example, in the case of shipping via UPS, 
+you will benefit from the volume discount rate Crowd Supply has negotiated with UPS. In the case of USPS, 
+the exact cost of postage is passed on to you. Freight costs may also include a charge for insurance, depending 
+on the value of the goods being shipped. 
 
-Because domestic (US) shipping is not charged to backers, make sure you account for freight costs when you calculate your pledge levels and pricing. If you provide us with the weight and dimensions of your product, we can estimate your shipping costs.
+Because domestic (US) shipping is not charged to backers, make sure you account for freight costs when you 
+calculate your pledge levels and pricing. If you provide us with the weight and dimensions of your product, 
+we can estimate your shipping costs.
 
-*Packaging and handling* is a fee that covers boxes, packing materials, tape, address labels, storage space, and manual labor Crowd Supply provides in preparing your products to ship. Our standard rate is **$2.75** per package shipped, but this fee is assessed on a case-by-case basis before shipping begins. The fee is intended to reflect the actual cost incurred to ship your package.
+*Packaging and handling* is a fee that covers boxes, packing materials, tape, address labels, storage space, 
+and manual labor Crowd Supply provides in preparing your products to ship. Our standard rate is **$2.75** per 
+package shipped, but this fee is assessed on a case-by-case basis before shipping begins. The fee is intended 
+to reflect the actual cost incurred to ship your package.
 
-*International handling* is an additional **$1** fee added to each package shipped to an address outside the US. This fee covers the additional costs of dealing with customs paperwork and policies, validating non-US addresses, and additional customer service that international orders entail. So, each package Crowd Supply ships internationally will cost you a total of $3.75.
+*International handling* is an additional **$1** fee added to each package shipped to an address outside the US. 
+This fee covers the additional costs of dealing with customs paperwork and policies, validating non-US addresses, 
+and additional customer service that international orders entail. So, each package Crowd Supply ships internationally 
+will cost you a total of $3.75.
 
 ## Order Policies
 
