@@ -66,15 +66,15 @@ Details of our official return and cancellation policies are below. At a high le
 At the discretion of the product creator, items committed to backers as a result of a crowdfunding campaign may, or may not, be exchanged or refunded. The product creator is responsible for providing a good faith estimate of the product description, risks, and timeline for their projects. However, backers need to know that due to the uncertainties inherent in creating products during the early stage of development, changes to features, performance, and/or appearance may occur between when a project is originally presented and when it is produced. Reasons for this may include technology limitations, supply issues, or other factors outside of the developer's control. Timelines may slip, and in rare instances a project that was funded may not be completed and delivered. Backers should only pledge to a creator’s project if they are comfortable accepting this risk. If a backer is dissatisfied with a product they should contact the project creator to express their concerns.
 
 #### Crowd Supply Store Product Return Policy (in-stock and pre-orders)    
-For all items pre-ordered from the Crowd Supply Store, customers can cancel their order for a refund (less transaction fees, if applicable) at any time prior to product shipment. 
+For all items pre-ordered from the Crowd Supply Store, customers can cancel their order for a refund (less transaction fees, if applicable) at any time prior to product shipment. After the product is received, any returns are treated as stock (see below).
 For all items purchased from stock in the Crowd Supply Store, customers are provided a 30-day satisfaction guarantee. Should any item fail to meet your expectations, simply return the item in new condition and we will gladly exchange it, refund your purchase price with a store credit, or credit your credit card. If you're not sure a product is going to work for you, we ask you please keep all packing materials for shipping, should you decide to return it.
-No return authorization number is necessary. Just ship your items back to us with a copy of your invoice or a printout of your confirmation email and a note indicating how you'd like us to handle the return (refund or exchange). Please include your daytime phone number in case we have any questions.
+To start the return process, please complete the [RMA request form](https://www.crowdsupply.com/contact/return-product). A customer service representative will be in touch about the best way to return your order. 
 
 Please send all returns to our fulfillment center:
 
-Crowd Supply, Inc.  
-340 SE 6th Ave  
-Portland, OR 97214
+Crowd Supply
+1836 NE 7th Ave. #110,
+Portland, OR, 97212-3978 United States of America
 
 #### Lost Packages
 
